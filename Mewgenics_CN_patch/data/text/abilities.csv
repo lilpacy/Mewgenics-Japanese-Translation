@@ -2100,7 +2100,10 @@ ABILITY_ABSORB2_DESC,Spend all of your mana and heal that much HP. Excess healin
 治疗等量生命值。
 多余治疗量转化为[img:shield]。"
 ABILITY_ICEARMOR_NAME,Ice Armor,,Armadura de hielo,Armure de glace,,Armatura di Ghiaccio,Armadura de Gelo,冰霜护甲
-ABILITY_ICEARMOR_DESC,-,(ability got cut),-,-,,-,-,-
+ABILITY_ICEARMOR_DESC,-,(ability got cut),-,-,,-,-,"能力：冰甲  
+为你提供额外的防御力，抵御敌人的攻击。  
+在战斗中激活后，冰甲将吸收一定比例的伤害，并在持续时间内减少受到的伤害。  
+使用时机得当，可以在关键时刻保护自己。"
 ABILITY_ICEARMOR2_DESC,-,,-,-,,-,-,-
 ABILITY_FIREARMOR_NAME,Fire Armor,,Armadura de fuego,Armure de feu,,Armatura di Fuoco,Armadura de Fogo,火焰护甲
 ABILITY_FIREARMOR_DESC,-,,-,-,,-,-,-
@@ -3050,7 +3053,7 @@ ABILITY_FORCEFEED_DESC,Heal an adjacent unit and give that unit +1 [img:con] and
 ABILITY_FORCEFEED2_DESC,Heal a unit within range and give that unit +1 [img:con] and -1 [img:spd].,,Cura a una unidad dentro de su radio de alcance y le otorga +1 [img:con] y -1 [img:spd].,Soigne une unité à portée et lui confère [img:con]&nbsp;+1&nbsp;et [img:spd]&nbsp;-1.,Heile eine Einheit in Reichweite und verleihe ihr +1&nbsp;[img:con] und -1&nbsp;[img:spd].,Curi un'unità entro il raggio d'azione e le fornisci +1 alla [img:con] e -1 alla [img:spd].,Cure uma unidade dentro do alcance e conceda a ela +1 de [img:con] e -1 de [img:spd].,"治疗射程内的单位，
 并给予该单位 +1 [img:con] 和 -1 [img:spd]。
 "
-ABILITY_FARTOOM_NAME,Fartoom!,,Pedorreta,Cacaboum&nbsp;!,Megapups!,Puzzone!,Pumbum!,Fartoom!
+ABILITY_FARTOOM_NAME,Fartoom!,,Pedorreta,Cacaboum&nbsp;!,Megapups!,Puzzone!,Pumbum!,能力冲击
 ABILITY_FARTOOM_DESC,"Lose 25% of your current HP, deal that much damage to adjacent units, and deal Knockback to them.",,"Pierde el 25 % de sus PS actuales, inflige esa cantidad de daño a las unidades adyacentes y les inflige retroceso.","Vous perdez 25&nbsp;% de vos PV actuels, infligez autant de dégâts aux unités adjacentes et leur infligez Recul.","Verliere 25&nbsp;% deiner aktuellen LP, verursache Schaden in dieser Höhe bei benachbarten Einheiten und stoße sie zurück.","Perdi il 25% dei tuoi PS attuali, causi altrettanto danno alle unità adiacenti e infliggi loro Contraccolpo.","Perca 25% da sua saúde atual, mas cause dano equivalente a unidades adjacentes, aplicando empurrão.","失去当前生命值的25%，
 对相邻单位造成同等伤害，
 并将它们击退。"
@@ -4813,7 +4816,7 @@ Este encantamento se torna Lacerar+.
 
 该法术变为 Lacerate+。
 "
-ABILITY_LACERATE_NAME,Lacerate,,Laceración,Lacération,Zerfetzen,Lacerazione,Lacerar,Lacerate
+ABILITY_LACERATE_NAME,Lacerate,,Laceración,Lacération,Zerfetzen,Lacerazione,Lacerar,撕裂攻击
 ABILITY_LACERATE_DESC,A melee attack that inflicts Bleed 2.,,Un ataque cuerpo a cuerpo que inflige 2 de hemorragia.,Attaque au corps à corps qui inflige Saignement&nbsp;+2.,"Ein Nahkampfangriff, der Blutung&nbsp;2 verursacht.",Un attacco corpo a corpo che infligge Sanguinamento 2.,Um ataque corpo-a-corpo que aplica sangramento 2.,"一次近战攻击，造成 出血 2。
 "
 ABILITY_LACERATE2_DESC,A stronger melee attack that inflicts Bleed 2.,,Un ataque cuerpo a cuerpo más fuerte que inflige 2 de hemorragia.,Attaque au corps à corps plus puissante qui inflige Saignement&nbsp;+2.,"Ein stärkerer Nahkampfangriff, der Blutung&nbsp;2 verursacht.",Un attacco corpo a corpo più forte che infligge Sanguinamento 2.,Um ataque corpo-a-corpo mais forte que aplica sangramento 2.,"一次更强的近战攻击，
@@ -4991,7 +4994,7 @@ ABILITY_ASSERTDOMINANCE2_DESC,"A weak melee attack. If this kills anything, you 
 如果你是首领，
 此法术额外造成 5 点伤害并造成瘀伤。
 "
-ABILITY_DUMBMOVE_NAME,1D Chess,,Ajedrez 1D,Échecs en 1D,1D-Schach,Scacchi 1D,Xadrez 1D,1D Chess
+ABILITY_DUMBMOVE_NAME,1D Chess,,Ajedrez 1D,Échecs en 1D,1D-Schach,Scacchi 1D,Xadrez 1D,傻瓜棋
 ABILITY_DUMBMOVE_DESC,"Move toward the closest enemy. The dumber you are, the farther you move.",,"Se mueve hacia el objetivo más cercano. Cuanta menos inteligencia tenga esta unidad, más lejos se mueve.","Vous vous déplacez vers l'ennemi le plus proche. Plus vous êtes stupide, plus vous vous déplacez loin.","Bewege dich auf den nächsten Gegner zu. Je dümmer du bist, desto weiter bewegst du dich.","Ti avvicini al nemico più vicino. Più sei idiota, più lontano ti muovi.","Mova-se na direção do inimigo mais próximo. Quanto menor for sua inteligência, mais longe você se move.","向最近的敌人移动。你越傻，
 移动得越远。"
 ABILITY_DUMBMOVE2_DESC,"Move toward the closest enemy. The dumber you are, the farther you move.
@@ -7240,7 +7243,7 @@ ABILITY_POWERUP2_DESC,Spend all of your mana and give that many random buffs to 
 给予自己或另一单位同等数量的随机增益效果。
 "
 //placeholder,,,,,,,,
-ABILITY_STARTER_PLACEHOLDER_NAME,???,,¿?,???,???,???,???,???
+ABILITY_STARTER_PLACEHOLDER_NAME,???,,¿?,???,???,???,???,能力起始占位符名称
 ABILITY_STARTER_PLACEHOLDER_FIGHTER_DESC,Becomes a random Fighter starter ability when you lock in your team's collars.,,"Cuando asignas los collares del grupo, se convierte en una habilidad inicial de luchador al azar.",Devient une compétence de départ de Pugiliste lorsque vous verrouillez les colliers de votre équipe.,"Wird zu einer zufälligen Krieger-Anfangsfähigkeit, wenn du die Klassen deiner Gruppe zugewiesen hast.",Diventa un'abilità iniziale casuale del Guerriero quando confermi i collari della squadra.,Torna-se uma habilidade inicial de lutador quando você trava as coleiras de sua equipe.,"当你锁定队伍的项圈时，
 获得一个随机的战士初始技能。"
 ABILITY_STARTER_PLACEHOLDER_THIEF_DESC,Becomes a random Thief starter ability when you lock in your team's collars.,,"Cuando asignas los collares del grupo, se convierte en una habilidad inicial de ladrón al azar.",Devient une compétence de départ de Fourbe lorsque vous verrouillez les colliers de votre équipe.,"Wird zu einer zufälligen Dieb-Anfangsfähigkeit, wenn du die Klassen deiner Gruppe zugewiesen hast.",Diventa un'abilità iniziale casuale del Ladro quando confermi i collari della squadra.,Torna-se uma habilidade inicial de ladrão quando você trava as coleiras de sua equipe.,"当你锁定队伍的项圈时，

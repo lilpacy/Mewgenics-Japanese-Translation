@@ -264,7 +264,7 @@ HOUSE_INTERSTITIAL_DIE_OLD_AGE_F,,,,,,{Catname} è morta di vecchiaia.,,
 HOUSE_INTERSTITIAL_DIE_OLD_AGE_N,,,,,,La vecchiaia ha avuto la meglio su {Catname}.,,
 HOUSE_INTERSTITIAL_CALM,The night was calm. Nothing of significance occurred.,,La noche ha sido tranquila. No ha ocurrido nada destacable.,"La nuit se déroula paisiblement, sans que rien de notable ne se produise.",Die Nacht war ruhig. Es ist nichts Besonderes passiert.,La notte è stata tranquilla. Non è successo nulla di significativo.,A noite foi calma. Nada digno de nota ocorreu.,夜晚平静。没有发生任何重大事件。
 HOUSE_INTERSTITIAL_BUTTON_OK,Ok,,Vale,OK,Ok,Ok,Ok,好的
-HOUSE_INTERSTITIAL_BUTTON_CONTINUE,>>>,,>>>,>>>,>>>,>>>,>>>,>>>
+HOUSE_INTERSTITIAL_BUTTON_CONTINUE,>>>,,>>>,>>>,>>>,>>>,>>>,继续
 HOUSEBOSS_COUNTDOWN,{amount} Days,,{amount} días,{amount} jours,{amount}&nbsp;Tage,{amount} giorni,{amount} dias,{amount} 天
 HOUSEBOSS_COUNTDOWN_TOMORROW,Tomorrow!,,¡Mañana!,Demain&nbsp;!,Morgen!,Domani!,Amanhã!,明天！
 HOUSEBOSS_COUNTDOWN_TODAY,!!!,,¡!,!!!,!!!,!!!,!!!,！！！
@@ -765,46 +765,46 @@ DIFFICULTY_NAME_3,IMPOSSIBLE,,IMPOSIBLE,IMPOSSIBLE,UNMÖGLICH,IMPOSSIBILE,IMPOSS
 ,,,,,,,,
 MAP_HARDPATH_BANNER,HARD,,DIFÍCIL,DIFFICILE,HART,DIFFICILE,DIFÍCIL,困难
 ,,,,,,,,
-STRINGFUCKUP_CAVESPEAK_1CH_0,a,"if a cat has 0 intelligence or less, the event text gets transformed into ""idiot speak/cavespeak"". its not critical that these pieces get localized, but you said they might need to be. The character length of these pieces is strict because they're glued together randomly to match the length of the words they're replacing. The 1-character strings should be vowels since they're often inserted in between other pieces",a,a,a,a,a,a
+STRINGFUCKUP_CAVESPEAK_1CH_0,a,"if a cat has 0 intelligence or less, the event text gets transformed into ""idiot speak/cavespeak"". its not critical that these pieces get localized, but you said they might need to be. The character length of these pieces is strict because they're glued together randomly to match the length of the words they're replacing. The 1-character strings should be vowels since they're often inserted in between other pieces",a,a,a,a,a,一个
 STRINGFUCKUP_CAVESPEAK_1CH_1,o,,o,o,o,o,o,o
 STRINGFUCKUP_CAVESPEAK_1CH_2,u,,u,u,u,u,u,u
-STRINGFUCKUP_CAVESPEAK_1CH_3,i,,i,i,i,i,i,i
-STRINGFUCKUP_CAVESPEAK_2CH_0,gu,,gu,gu,gu,gu,gu,gu
+STRINGFUCKUP_CAVESPEAK_1CH_3,i,,i,i,i,i,i,我
+STRINGFUCKUP_CAVESPEAK_2CH_0,gu,,gu,gu,gu,gu,gu,咕
 STRINGFUCKUP_CAVESPEAK_2CH_1,bu,,bu,bu,bu,bu,bu,bu
 STRINGFUCKUP_CAVESPEAK_2CH_2,og,,og,og,ok,og,og,og
 STRINGFUCKUP_CAVESPEAK_2CH_3,ag,,ag,ag,ak,ag,ag,ag
 STRINGFUCKUP_CAVESPEAK_2CH_4,mo,,mo,mo,mo,mo,mo,mo
 STRINGFUCKUP_CAVESPEAK_2CH_5,fu,,fu,fu,fu,fu,fu,fu
 STRINGFUCKUP_CAVESPEAK_2CH_6,ba,,ba,ba,ba,ba,ba,ba
-STRINGFUCKUP_CAVESPEAK_3CH_0,duh,,duh,duh,duh,duh,duh,duh
-STRINGFUCKUP_CAVESPEAK_3CH_1,hur,,hur,hur,hrr,hur,hur,hur
+STRINGFUCKUP_CAVESPEAK_3CH_0,duh,,duh,duh,duh,duh,duh,呃
+STRINGFUCKUP_CAVESPEAK_3CH_1,hur,,hur,hur,hrr,hur,hur,呜
 STRINGFUCKUP_CAVESPEAK_3CH_2,bug,,bug,boug,buk,bug,bug,bug
 STRINGFUCKUP_CAVESPEAK_3CH_3,oog,,oog,oug,uck,oog,oog,oog
-STRINGFUCKUP_CAVESPEAK_3CH_4,fug,,fug,fug,fuk,fug,fug,fug
-STRINGFUCKUP_CAVESPEAK_3CH_5,mur,,mur,mur,mur,mur,mur,mur
-STRINGFUCKUP_CAVESPEAK_3CH_6,doh,,doh,doh,doh,doh,doh,doh
-STRINGFUCKUP_CAVESPEAK_3CH_7,bah,,bah,bah,bah,bah,bah,bah
+STRINGFUCKUP_CAVESPEAK_3CH_4,fug,,fug,fug,fuk,fug,fug,呜
+STRINGFUCKUP_CAVESPEAK_3CH_5,mur,,mur,mur,mur,mur,mur,哞
+STRINGFUCKUP_CAVESPEAK_3CH_6,doh,,doh,doh,doh,doh,doh,呃
+STRINGFUCKUP_CAVESPEAK_3CH_7,bah,,bah,bah,bah,bah,bah,呸
 STRINGFUCKUP_CAVESPEAK_3CH_8,der,,der,der,der,der,der,der
 STRINGFUCKUP_CAVESPEAK_3CH_9,dur,,dur,dur,dur,dur,dur,dur
 STRINGFUCKUP_CAVESPEAK_4CH_0,grog,,grog,grog,grok,grog,grog,grog
 STRINGFUCKUP_CAVESPEAK_4CH_1,mook,,mook,mouk,muck,mook,mook,mook
-STRINGFUCKUP_CAVESPEAK_4CH_2,ooga,,ooga,ouga,ugga,ooga,ooga,ooga
+STRINGFUCKUP_CAVESPEAK_4CH_2,ooga,,ooga,ouga,ugga,ooga,ooga,呜嘎
 STRINGFUCKUP_CAVESPEAK_4CH_3,boog,,boog,boug,bugg,boog,boog,boog
 STRINGFUCKUP_CAVESPEAK_4CH_4,durh,,durh,durh,durh,durh,durh,durh
-STRINGFUCKUP_CAVESPEAK_4CH_5,durr,,durr,durr,durr,durr,durr,durr
-STRINGFUCKUP_CAVESPEAK_4CH_6,duhh,,duhh,duhh,duhh,duhh,duhh,duhh
+STRINGFUCKUP_CAVESPEAK_4CH_5,durr,,durr,durr,durr,durr,durr,呃
+STRINGFUCKUP_CAVESPEAK_4CH_6,duhh,,duhh,duhh,duhh,duhh,duhh,呃
 STRINGFUCKUP_CAVESPEAK_4CH_7,muhh,,muhh,muhh,muhh,muhh,muhh,muhh
-STRINGFUCKUP_CAVESPEAK_4CH_8,derp,,derp,baba,derp,derp,derp,derp
-STRINGFUCKUP_CAVESPEAK_4CH_9,poop,,poop,caca,pups,caca,poop,poop
+STRINGFUCKUP_CAVESPEAK_4CH_8,derp,,derp,baba,derp,derp,derp,傻瓜
+STRINGFUCKUP_CAVESPEAK_4CH_9,poop,,poop,caca,pups,caca,poop,屎
 STRINGFUCKUP_CAVESPEAK_4CH_10,herp,,herp,herp,herp,herp,herp,herp
 STRINGFUCKUP_CAVESPEAK_4CH_11,herr,,herr,herr,herr,herr,herr,herr
 STRINGFUCKUP_CAVESPEAK_4CH_12,hurr,,hurr,hurr,hurr,hurr,hurr,hurr
 STRINGFUCKUP_CAVESPEAK_4CH_13,ugna,,ugna,ugna,ukna,ugna,ugna,ugna
 STRINGFUCKUP_CAVESPEAK_5CH_0,booga,,booga,bouga,bugga,booga,booga,booga
-STRINGFUCKUP_CAVESPEAK_5CH_1,duhhh,,duhhh,duhhh,duhhh,duhhh,duhhh,duhhh
+STRINGFUCKUP_CAVESPEAK_5CH_1,duhhh,,duhhh,duhhh,duhhh,duhhh,duhhh,呃……
 STRINGFUCKUP_CAVESPEAK_5CH_2,mooga,,mooga,mouga,mugga,mooga,mooga,mooga
 STRINGFUCKUP_CAVESPEAK_5CH_3,poopy,,poopy,popo,pupsi,cacca,poopy,poopy
-STRINGFUCKUP_CAVESPEAK_5CH_4,derpy,,derpy,bobo,dupsi,scemo,derpy,呆萌
+STRINGFUCKUP_CAVESPEAK_5CH_4,derpy,,derpy,bobo,dupsi,scemo,derpy,derpy
 ,,,,,,,,
 //unit types,,,,,,,,
 UNIT_TYPE_ALIEN,Alien,,Extraterrestre,Extraterrestre,Alien,Alieno,Alienígena,外星人

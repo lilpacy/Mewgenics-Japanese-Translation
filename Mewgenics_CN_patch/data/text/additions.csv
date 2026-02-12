@@ -1,6 +1,6 @@
 KEY,en,notes,sp,fr,de,it,pt-br,zh
 CURRENT_LANGUAGE_NAME,English,"put ""espanol"" in the spanish column, ""francois"" in the french one, etc. Limited text box space so abbreviate if necessary",Español,Français,Deutsch,Italiano,Português (Brasil),中文
-CURRENT_LANGUAGE_SHIPPABLE,yes,"put ""yes"" if the language is shippable and ""no"" if its not ready yet. this is not displayed, just used to determine if the language should show in the UI selector",yes,yes,yes,yes,yes,yes
+CURRENT_LANGUAGE_SHIPPABLE,yes,"put ""yes"" if the language is shippable and ""no"" if its not ready yet. this is not displayed, just used to determine if the language should show in the UI selector",yes,yes,yes,yes,yes,是
 ,,,,,,,,
 SONG_UNLOCK_CREDITS_1,"""Get in the Cage"" is now in the radio playlist!",,¡Se ha añadido «Get in the Cage» a la lista de la radio!,«&nbsp;L'entrée en cage&nbsp;» est dispo dans la liste de lecture radio&nbsp;!,„Get in the Cage“ kann jetzt im Radio laufen!,"""Get in the Cage"" è ora nella playlist della radio!","""Get in the Cage"" foi adicionada à lista de reprodução de rádio!",“Get in the Cage” 现在已加入电台播放列表！
 SONG_UNLOCK_CREDITS_2,"""Future Meets the Past"" is now in the radio playlist!",,¡Se ha añadido «Future Meets the Past» a la lista de la radio!,«&nbsp;Le futur face au passé&nbsp;» est dispo dans la liste de lecture radio&nbsp;!,„Future Meets the Past“ kann jetzt im Radio laufen!,"""Future Meets the Past"" è ora nella playlist della radio!","""Future Meets the Past"" foi adicionada à lista de reprodução de rádio!",“Future Meets the Past” 现在已加入电台播放列表！
@@ -212,7 +212,7 @@ ITEM_UNSTABLEDNA_DESC,"Use: Gain 6 random stat ups and 3 random stat downs, then
 ITEM_REDPILL_NAME,Red Pill,,Pastilla roja,Pilule rouge,Rote Pille,Pillola Rossa,Pílula Vermelha,红色药丸
 ITEM_REDPILL_DESC,"Use: 50% chance to get Chungus (+4 [img:con]), otherwise take 8 damage.",see DISORDER_CHUNGUS_NAME,"Uso: 50 % de probabilidad de sufrir chungus (+4 [img:con]); si no, sufre 8 de daño.","Utilisation&nbsp;: 50&nbsp;% de chances d'obtenir le trouble Énorme ([img:con] +4). Dans le cas contraire, vous subissez 8 dégâts.","Benutzen: 50%ige Wahrscheinlichkeit, Fettmops (+4&nbsp;[img:con]) zu erhalten. Erleide sonst 8&nbsp;Schaden.","Uso: 50% di probabilità di ottenere Tracagnotto (+4 [img:con]), altrimenti subisci 8 di danno.","Uso: 50% de chance de obter enormidade (+4 de [img:con]), ou então sofra 8 de dano.","使用：
 50%几率获得Chungus（+4 [img:con]），否则受到8点伤害。"
-DISORDER_CHUNGUS_NAME,Chungus,slang for something big and/or fat,Chungus,Énorme,Fettmops,Tracagnotto,Enormidade,Chungus
+DISORDER_CHUNGUS_NAME,Chungus,slang for something big and/or fat,Chungus,Énorme,Fettmops,Tracagnotto,Enormidade,混乱巨兽
 DISORDER_CHUNGUS_DESC,,purposely empty,,,,,,
 ,,,,,,,,
 QEVENT_MEATALTAR_REW2B,"{Catname} lies sacrificed on top of the altar. The altar is pleased. 
@@ -320,12 +320,12 @@ CREDITS_ARTB,additional art by,,Arte adicional de,Art supplémentaire,weitere ku
 CREDITS_PROGRAMMINGB,additional programming by,,Programación adicional de,Programmation supplémentaire,weitere programmierung von,programmazione aggiuntiva di,programação adicional por,额外编程由
 CREDITS_CHARACTERSHEADER,Also Featuring...,,Y con...,Mais aussi...,Featuring&nbsp;…,Con la partecipazione di...,Com a participação de...,另有...
 CREDITS_CHARACTER_BEANIES,Dr. Thomas A. Beanies,,Dr. Thomas A. Beanies,Dr Thomas A. Beanies,Dr. Thomas A. Beanies,Dottor Thomas A. Beanies,Dr. Thomas A. Beanies,Thomas A. Beanies 博士
-CREDITS_CHARACTER_STACY,Stacy #{stacy_number},,Stacy {stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number}
+CREDITS_CHARACTER_STACY,Stacy #{stacy_number},,Stacy {stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},斯泰西 #{stacy_number}
 CREDITS_CHARACTER_BUTCH,Butch,,Butch,Butch,Butch,Butch,Butch,布奇
-CREDITS_CHARACTER_TINK,Ferguson Rodney Tinkles,,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles
+CREDITS_CHARACTER_TINK,Ferguson Rodney Tinkles,,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,费格森·罗德尼·廷克尔
 CREDITS_CHARACTER_FRANK,Frank,,Frank,Franck,Frank,Frank,Frank,弗兰克
-CREDITS_CHARACTER_BABYJACK,Jackie Dustin Nickel,,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel
-CREDITS_CHARACTER_TRACY,Tracy Newkirk,,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk
+CREDITS_CHARACTER_BABYJACK,Jackie Dustin Nickel,,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,杰基·达斯廷·尼克尔
+CREDITS_CHARACTER_TRACY,Tracy Newkirk,,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,特雷西·纽基尔克
 CREDITS_CHARACTER_ORGANGRINDER,{organname},,{organname},{organname},{organname},{organname},{organname},{organname}
 CREDITS_CHARACTER_STEVEN,Steven,,Steven,Steven,Steven,Steven,Steven,史蒂文
 CREDITS_CHARACTER_HEADERB,And Featuring...,,Y con...,Ainsi que...,Und&nbsp;…,E con...,E também...,并且还包括...

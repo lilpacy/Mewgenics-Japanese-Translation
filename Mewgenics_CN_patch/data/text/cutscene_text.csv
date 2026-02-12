@@ -479,16 +479,16 @@ Ruff, roff.","Bork, bork
 Ruff, roff","Aruff ruff
 Wuff-wuff","Bork Bork
 Ruff Roff","Bork Bork
-Ruff Roff","Bork Bork
-Ruff Roff"
+Ruff Roff","博克 博克  
+鲁夫 罗夫"
 BOSS_CHUBSANDNUBS_QUOTE_2,"Arf Gorf!
 Yiff yiff!",,"¡Arf, gorf!
 ¡Yiff, yiff!","Arf, gorf&nbsp;!
 Yiff, yiff&nbsp;!","Arf wuff!
 Yiff yiff!","Arf Gorf!
 Yiff yiff!","Arf Gorf!
-Yiff yiff!","Arf Gorf!
-Yiff yiff!"
+Yiff yiff!","阿尔夫·戈夫！  
+耶夫耶夫！"
 BOSS_CHUBSANDNUBS_QUOTE_3,"Cough sputter
 Horf!",,"¡Stup! Cof, cof...
 ¡Horf!","*Tousse... crache...*
@@ -568,7 +568,7 @@ BOSS_COVEN_QUOTE_1,We shall bring forth the great end!,,¡Haremos que llegue el 
 BOSS_COVEN_QUOTE_2,He will feast on your flesh and bathe in your blood!,,¡Devoraremos tu carne y nos bañaremos en tu sangre!,Il se repaîtra de votre chair et se baignera dans votre sang&nbsp;!,Er wird an eurem Fleisch laben und in eurem Blut baden!,Lui banchetterà con la tua carne e si laverà col tuo sangue!,Ele irá devorar sua carne e se banhar em seu sangue!,他将大吃你的肉，沐浴你的血！
 BOSS_COVEN_QUOTE_3,Our Lord is coming!,,¡Nuestro Señor está en camino!,Notre Seigneur est à nos portes&nbsp;!,Unser Herr ist nahe!,Il nostro Signore sta arrivando!,Nosso Senhor está chegando!,我们的主来了！
 BOSS_COVEN_QUOTE_4,Come! Spill your blood!,,"Deprisa, ¡derrama tu sangre!",Approchez&nbsp;! Versez votre sang&nbsp;!,Kommt! Vergießt euer Blut!,Vieni! Versa il tuo sangue!,Venha! Derrame seu sangue!,来吧！洒出你的血！
-BOSS_STACY_NAME,Stacy,,Stacy,Stacy,Stacy,Stacy,Stacy,Stacy
+BOSS_STACY_NAME,Stacy,,Stacy,Stacy,Stacy,Stacy,Stacy,斯泰西
 BOSS_STACY_QUOTE_1,Meow?,,¿Miau?,Miaou&nbsp;?,Miau?,Miao?,Miau?,喵？
 BOSS_STACY_QUOTE_2,Mew mew!?,,"¿Miau, miau?","Miaou, miaou&nbsp;?",Miau-miau?!,Miao miao?!,Mew mew?!,喵喵！？
 BOSS_STACY_QUOTE_3,Meeeow!?,,¡¿Miauuuu?!,Miaouuu&nbsp;?!,Miiiaau?!,Miao?!,Miaaau?!,喵～～！？
@@ -578,7 +578,7 @@ BOSS_SPEWER_QUOTE_2,I need to take my pills...,,Tengo que tomarme las pastillas.
 BOSS_SPEWER_QUOTE_3,Pills pills pills!!!,,"¡Pastis, pastis, pastis!","Pilules, pilules, pilules&nbsp;!!!","Pillen, Pillen, Pillen!!!",Pillole pillole pillole!!!,"Pílulas, pílulas, pílulas!!!",药药药!!!
 BOSS_SPEWER_QUOTE_4,"Uh oh, I think I'm gonna spew!",,"Oh-oh, me parece que voy a escupir.","Oh oh, j'crois que je vais en mettre partout&nbsp;!","Oh-oh, ich glaube ich muss kotzen!","Uh oh, credo di stare per vomitare!","Oh oh, acho que vou ejetar!",哎哟，我觉得我要吐了！
 BOSS_LORDBUNGA_NAME,Lord Bunga,,Jefe Bunga,Seigneur Bunga,Lord Bunga,Lord Bunga,Lorde Bunga,邦加大人
-BOSS_LORDBUNGA_QUOTE_1,Eetoo thrag kats! Yum yom!,,"¡Ñamñam gato! ¡Yum, yom!",Ze manze les cha&nbsp;! Miam miam&nbsp;!,Katza fressn! Mjam mjom!,Eetoo thrag kats! Yum yom!,Eetoo thrag kats! Yum yom!,Eetoo thrag kats! Yum yom!
+BOSS_LORDBUNGA_QUOTE_1,Eetoo thrag kats! Yum yom!,,"¡Ñamñam gato! ¡Yum, yom!",Ze manze les cha&nbsp;! Miam miam&nbsp;!,Katza fressn! Mjam mjom!,Eetoo thrag kats! Yum yom!,Eetoo thrag kats! Yum yom!,吃点好东西！真美味！
 BOSS_LORDBUNGA_QUOTE_2,Grumble grumble...,,"Grrr, grrr...",*Grogne*,"Grummel, grummel&nbsp;…",*grumble grumble*,*Resmunga resmunga*...,咕噜咕噜……
 BOSS_HITLER_NAME,Hitler II,,Hitler II,Hitler II,Hitler II,Hitler II,Hitler II,希特勒二世
 BOSS_HITLER_QUOTE_1,Ich werde deine Eier kastrieren!,,Ich werde deine Eier kastrieren.,Ich werde deine Eier kastrieren!,Ich werde deine Eier kastrieren!,Ich werde deine Eier kastrieren!,Ich werde deine Eier kastrieren!,我要阉割你的蛋！
@@ -605,9 +605,9 @@ BOSS_FIGHTERCAT_NAME,Magnus,,Magnus,Magnus,Magnus,Magnus,Magnus,马格努斯
 BOSS_HUNTERCAT_NAME,Fenrir,,Fenrir,Fenrir,Fenrir,Fenrir,Fenrir,芬里尔
 BOSS_MAGECAT_NAME,Lucy,,Lucy,Lucy,Lucy,Lucy,Lucy,露西
 BOSS_TANKCAT_NAME,Maisie,,Maisie,Maisie,Maisie,Maisie,Maisie,梅茜
-BOSS_FLUSHMASTER_NAME,Flushmaster,,Cisternario,Chassedo,Der Spülmeister,Mastro Sciacquone,Descargueiro,Flushmaster
+BOSS_FLUSHMASTER_NAME,Flushmaster,,Cisternario,Chassedo,Der Spülmeister,Mastro Sciacquone,Descargueiro,冲水大师
 BOSS_RATKING_NAME,Rat King,,Rey Rata,Roi des rats,Der Rattenkönig,Re Ratto,Rei dos Ratos,鼠王
-BOSS_CANCREEPER_NAME,Can Creeper,,Reptacubos,Poubellard,Der Kannenkriecher,Melma di Lattina,Lataria,Can Creeper
+BOSS_CANCREEPER_NAME,Can Creeper,,Reptacubos,Poubellard,Der Kannenkriecher,Melma di Lattina,Lataria,可怕的爬行者
 BOSS_TRAMPY_NAME,Trampy,,Trompas,Bibine,Trampy,Trampy,Tropel,流浪者
 BOSS_SLIME_NAME,Big Slime,,Gran Malababa,Gros vasard,Großer Schleim,Gelatina Grande,Geleiona,大史莱姆
 BOSS_MAMAMAGGOT_NAME,Mama Maggot,,Mamá Gusano,Mamasticot,Mama Made,Mamma Larva,Mamãe Verme,妈妈蛆
@@ -650,13 +650,13 @@ BOSS_PYROPHINA_QUOTE_2,[a:shake]GGGRRRRRAAAAAAAGGAAA![/a],,[a:shake]¡GRRRRRAAAA
 BOSS_ZARATANA_NAME,Zaratana,,Zaratana,Zaratana,Zaratana,Zaratana,Zaratana,扎拉塔纳
 BOSS_ZARATANA_QUOTE_1,[a:shake]GRUMBLE GRUMBLE![/a],,"[a:shake]¡GRRRR, GRRRRR![/a]",[a:shake]*GROGNE*[/a],[a:shake]GRUMMEL GRUMMEL![/a],[a:shake]GRUMBLE GRUMBLE![/a],[a:shake]RESMUNGO RESMUNGO![/a],[a:shake]咕噜咕噜！[/a]
 BOSS_ZARATANA_QUOTE_2,"[a:shake]GRUNT, SNORT[/s]",,"[a:shake]Grrrr, burp.[/s]","[a:shake]GRAH, SNIFF[/s]","[a:shake]GRUNZ, PRUST[/s]","[a:shake]GRUNT, SNORT[/s]","[a:shake]GRUNHIDO, BUFO[/s]",[a:shake]咕噜，哼哼[/s]
-BOSS_PYROPHINA_VS_ZARATANA_NAME,Pyrophina vs Zaratana,,Pyrophina contra Zaratana,Pyrophina contre Zaratana,Pyrophina vs. Zaratana,Pyrophina contro Zaratana,Pyrophina vs Zaratana,Pyrophina vs Zaratana
+BOSS_PYROPHINA_VS_ZARATANA_NAME,Pyrophina vs Zaratana,,Pyrophina contra Zaratana,Pyrophina contre Zaratana,Pyrophina vs. Zaratana,Pyrophina contro Zaratana,Pyrophina vs Zaratana,火焰女王对决扎拉塔娜
 BOSS_PYROPHINA_VS_ZARATANA_QUOTE_1,[a:shake]*General giant screeching and roaring*[/a],,[a:shake]*Se oyen chillidos y rugidos descomunales*.[/a],[a:shake]*vacarme de crissements et de rugissements*[/a],[a:shake]*Allgemeines Kreischen und Brüllen*[/a],[a:shake]*Gridi e ruggiti di giganti*[/a],[a:shake]*Grunhidos e rugidos gigantescos*[/a],[a:shake]*巨大的尖叫和咆哮声*[/a]
-BOSS_TERMINATOR_1_NAME,C-800,,C-800,C-800,C-800,C-800,G-800,C-800
+BOSS_TERMINATOR_1_NAME,C-800,,C-800,C-800,C-800,C-800,G-800,终结者C-800
 BOSS_TERMINATOR_1_QUOTE_1,"Meowsta la vista, baby.",,"Sayonara, baby.","Miaousta la vista, baby.","Miausta la vista, Baby.","Miaosta la vista, baby.","Miausta la vista, baby.",喵斯塔，再见，宝贝。
 BOSS_TERMINATOR_1_QUOTE_2,"Chill out, dickwad!",,"Tranqui, capullo.","Reste cool, sac à merde&nbsp;!","Bleib cool, du Pfeife!","Frena, stronzetto!","Acalme-se, panaca!",冷静点，混蛋！
 BOSS_TERMINATOR_1_QUOTE_3,"I need your Fur, your paws, and your motorcycle.",,"Necesito tu piel, tus patas y tu motocicleta.","Je veux ta fourrure, tes pattes, et ta moto.","Ich will dein Fell, deine Pfoten und dein Motorrad.","Voglio la tua pelliccia, zampe, e motocicletta.","Eu preciso do seu pelo, das suas patas e da sua motocicleta.",我需要你的毛皮，你的爪子，还有你的摩托车。
-BOSS_TERMINATOR_2_NAME,C-1000,,C-1000,C-1000,C-1000,C-1000,G-1000,C-1000
+BOSS_TERMINATOR_2_NAME,C-1000,,C-1000,C-1000,C-1000,C-1000,G-1000,终结者C-1000
 BOSS_TERMINATOR_2_QUOTE_1,[a:shake]*liquid metal squelching sounds*[/a],,[a:shake]*Sonidos de metal líquido*.[/a],[a:shake]*bruits de succion de liquide métallique*[/a],[a:shake]*Schmelzende Metallgeräusche*[/a],[a:shake]*suoni di metallo liquido che si fonde*[/a],[a:shake]*sons de metal líquido*[/a],[a:shake]*液态金属挤压声*[/a]
 BOSS_TERMINATOR_3_NAME,Hitler III,,Hitler III,Hitler III,Hitler III,Hitler III,Hitler III,希特勒三世
 BOSS_TERMINATOR_3_QUOTE_1,"Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen!",,"Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen!","Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen!","Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen!","Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen!","Ich bin hier, um diese Katzen zu töten und die Kontrolle über diese wertlose Dimension zu übernehmen!",我来这里是为了杀死这些猫并控制这个一文不值的维度！

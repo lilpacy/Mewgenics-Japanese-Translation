@@ -30,13 +30,13 @@ EABILITY_METEORNADO_NAME,Meteornado,,Meteornado,Météornade,Meteornado,Meteorna
 EABILITY_TURTLE_NAME,Turtle,,Tortuga,Tortue,Panzerschutz,Tartaruga,Tartaruga,海龟
 EABILITY_MAGNETPULL_NAME,Magnet Pull,,Atracción magnética,Attirance magnétique,Magnetzug,Attrazione Magnetica,Atração Magnética,磁力拉扯
 EABILITY_METEORBOMBARD_NAME,Meteor Bombardment,,Bombardeo de meteoritos,Bombardement météore,Meteorbeschuss,Bombardamento Meteoritico,Bombardeio de Meteoros,陨石轰炸
-EABILITY_HSULF_NAME,Hsulf,"""Flush"" backwards (for chaos boss) [backwards version of flushmaster Flush]",Anretsic,Odessahc,Gnulüps,Enouqcaics,Agracsed,Hsulf
-EABILITY_TSALBDNIMAGEM_NAME,Tsalb Dnim Agem,"""Mega Mind Blast"" backwards (for chaos boss) [backwards version of johnny's Mega Mind Blast]",Latnem nóisolpxeagem,Euqihcysp epparf agèm,Noisolpxeneknadeg Egiseir,Elatnem Enoisolpse Agem,Latnem Oãsolpxe Agem,Tsalb Dnim Agem
-EABILITY_TUODAERPS_NAME,Tuo Daerps.,"""Spread Out"" backwards (for chaos boss) [backwards version of throbbing king's Spread Out]",Adadnabsed,Suov-zesrepsid.,Nelietrev.,Ivetailgapraps.,Otnemahlapse,Tuo Daerps.
+EABILITY_HSULF_NAME,Hsulf,"""Flush"" backwards (for chaos boss) [backwards version of flushmaster Flush]",Anretsic,Odessahc,Gnulüps,Enouqcaics,Agracsed,虚空之影
+EABILITY_TSALBDNIMAGEM_NAME,Tsalb Dnim Agem,"""Mega Mind Blast"" backwards (for chaos boss) [backwards version of johnny's Mega Mind Blast]",Latnem nóisolpxeagem,Euqihcysp epparf agèm,Noisolpxeneknadeg Egiseir,Elatnem Enoisolpse Agem,Latnem Oãsolpxe Agem,逆转游戏
+EABILITY_TUODAERPS_NAME,Tuo Daerps.,"""Spread Out"" backwards (for chaos boss) [backwards version of throbbing king's Spread Out]",Adadnabsed,Suov-zesrepsid.,Nelietrev.,Ivetailgapraps.,Otnemahlapse,托达尔普斯
 EABILITY_THROWGRENADE_NAME,Throw Grenade,,Lanzamiento de granada,Lancer de grenade,Granate werfen,Lancio di Granata,Lançar Granada,投掷手榴弹
 EABILITY_SNIPER_NAME,Sniper,,Tiro de francotirador,Sniper,Scharfschütze,Cecchino,Sniper,狙击手
 EABILITY_BOULDERDROP_NAME,Boulder Drop!,,¡Peñasco va!,Lancer de rocher,Steinschlag!,Caduta Massi!,Pedrada!,巨石坠落！
-EABILITY_T3RIPANDTEAR_NAME,Auseinanderreißen,,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen
+EABILITY_T3RIPANDTEAR_NAME,Auseinanderreißen,,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,撕裂之力
 EABILITY_ROULETTE_NAME,Roulette.,,Ruleta,Roulette.,Roulette.,Roulette.,Roleta.,轮盘赌。
 EABILITY_KNEEL_NAME,Kneel.,,Postración,À genoux.,Kniet nieder.,Inginocchiatevi.,Ajoelhar.,跪下。
 EABILITY_GOAWAY_NAME,Go Away.,,Distanciamiento,Dégage.,Aus meinen Augen.,Andatevene.,Partida.,走开。
@@ -52,7 +52,7 @@ EABILITY_DUSTDASH_NAME,Dust Dash,,Carrera polvorienta,Charge poussiéreuse,Staub
 EABILITY_SPELLSHIELD_NAME,Spell Shield,,Escudo antihechizos,Bouclier magique,Zauberschild,Scudo Magico,Escudo Encantado,魔法盾
 EABILITY_FLAMETHROWER_NAME,Flamethrower,,Lanzallamas,Lance-flammes,Flammenwerfer,Lanciafiamme,Lança-Chamas,火焰喷射器
 EABILITY_WIZBLIZZ_NAME,Wiz Blizz,,Viento embrujado,Blizzard magique,Zauberschnee,Bufera Magica,Nevascaria,巫师暴风雪
-EABILITY_WIZSTORM_NAME,xXx_Thunder_xXx,,xXx_Trueno_xXx,xXx_Tonnerre_xXx,xXx_Donner_xXx,xXx_Tuono_xXx,xXx_Trovão_xXx,xXx_Thunder_xXx
+EABILITY_WIZSTORM_NAME,xXx_Thunder_xXx,,xXx_Trueno_xXx,xXx_Tonnerre_xXx,xXx_Donner_xXx,xXx_Tuono_xXx,xXx_Trovão_xXx,雷霆巫师
 EABILITY_SWIPE_NAME,Swipe,,Golpe,Baffe,Schlag,Zampata,Passada,挥击
 EABILITY_BITE_NAME,Bite,,Mordisco,Morsure,Biss,Morso,Mordida,咬
 EABILITY_GEMINADO_NAME,Geminado,,Geminado,Tornades jumelles,Geminado,Geminado,Geminado,双重
@@ -213,7 +213,7 @@ EABILITY_MSHEILD_NAME,M-Shield,,Megaescudo,Bouclier-M,M-Schild,Scudo-M,Escudo-M,
 EABILITY_PRIMEBLAST_NAME,Prime Blast,,Primera explosión,Explosion primordiale,Urknall,Esplosione Primaria,Explosão Primordial,主爆炸
 EABILITY_HOWL_NAME,Howl,,Alarido,Hurlement,Heuler,Ululato,Uivar,嚎叫
 EABILITY_CHARM_NAME,Charm,,Embrujo,Envoûtement,Charme,Ammaliamento,Feitiço,魅惑
-EABILITY_CERBERUBFLUB_NAME,Cerberub Flub,,Pifia de Cerberino,Bourde de cerbère moignon,Zerbussiflups,Flub di Decerbero,Erro de Cerberub,Cerberub Flub
+EABILITY_CERBERUBFLUB_NAME,Cerberub Flub,,Pifia de Cerberino,Bourde de cerbère moignon,Zerbussiflups,Flub di Decerbero,Erro de Cerberub,冥犬泡泡
 EABILITY_MAUL_NAME,Maul,,Vapuleo,Mutilation,Zerfleischen,Dilaniamento,Espancamento,撕咬
 EABILITY_DEATH_NAME,Death,,Muerte,Mort,Tod,Morte,Morte,死亡
 EABILITY_PESTILENCE_NAME,Pestilence,,Pestilencia,Pestilence,Pestilenz,Pestilenza,Pestilência,瘟疫
@@ -227,9 +227,9 @@ EABILITY_SNOW_NAME,Snow,,Nieve,Neige,Schnee,Neve,Neve,雪
 EABILITY_LIGHTNINGDASH_NAME,Lightning Dash,,Carrera relámpago,Charge électrique,Blitzansturm,Scatto Fulmineo,Impulso Elétrico,闪电冲刺
 EABILITY_LIGHTNINGSTORM_NAME,Lightning Storm,,Tormenta eléctrica,Tempête d'éclairs,Gewitter,Tempesta di Fulmini,Tempestade de Raios,闪电风暴
 EABILITY_QUAKE_NAME,Quake,,Temblor,Séisme,Erdbeben,Terremoto,Terremoto,地震
-EABILITY_MOONMANCHARGE_NAME,:O,,:O,:O,:O,:O,:O,:O
+EABILITY_MOONMANCHARGE_NAME,:O,,:O,:O,:O,:O,:O,月球能量冲击
 EABILITY_CALLFORHELP_NAME,Call for Help,,Llamada de socorro,Appel à l'aide,Hilferuf,Richiesta di Aiuto,Pedido de Ajuda,呼救
-EABILITY_FOOGABUNGA_NAME,Fooga Bunga,,Fooga Bunga,Fooga Bunga,Fugga Bunga,Fooga Bunga,Fooga Bunga,Fooga Bunga
+EABILITY_FOOGABUNGA_NAME,Fooga Bunga,,Fooga Bunga,Fooga Bunga,Fugga Bunga,Fooga Bunga,Fooga Bunga,泡泡狂欢
 EABILITY_POUNCE_NAME,Pounce,,Acometida,Bond,Anspringen,Guizzo,Agressão,扑击
 EABILITY_GRUKOOGMOOGA_NAME,Gruk Oog Mooga,,¡Gruk oog mooga!,Gruk Oog Mooga,Gruk Uck Mugga,Gruk Oog Mooga,Gruk Oog Mooga,格鲁克 乌格 莫加
 EABILITY_ATOOKTHAGKAT_NAME,Atook Thag Kat,"""attack that cat"" in cave speak",Gato ñamñam,Atak sseu cha,Katza haun,Atak Que Gat,Atook Thag Kat,阿图克 塔格 卡特

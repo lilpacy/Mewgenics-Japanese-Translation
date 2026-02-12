@@ -1595,7 +1595,7 @@ Cara: ganhe 5 moedas.
 Coroa: perca 5 moedas.","使用：掷硬币。
 正面：获得5个硬币。
 反面：失去5个硬币。"
-ITEM_D6_NAME,D6,,D6,D6,Sechsseitiger Würfel,D6,D6,D6
+ITEM_D6_NAME,D6,,D6,D6,Sechsseitiger Würfel,D6,D6,重掷骰子
 ITEM_D6_DESC,You can reroll your options when you level up.,,Puede cambiar al azar las opciones al subir de nivel.,Vous pouvez tirer de nouvelles options quand vous montez de niveau.,"Du kannst deine Auswahlmöglichkeiten neu generieren, wenn du ein Level aufsteigst.",Puoi modificare le tue opzioni quando sali di livello.,Você pode rolar novamente suas opções ao subir de nível.,当你升级时，可以重新掷选项。
 ITEM_DREAMCATCHER_NAME,Dream Catcher,,Atrapasueños,Attrape-rêves,Traumfänger,Acchiappasogni,Apanhador de Sonhos,捕梦网
 ITEM_DREAMCATCHER_DESC,"Whenever you fall asleep, gain All Stats Up, restore all your mana, and heal a random injury.",,"Cuando esta unidad se queda dormida, obtiene aumento total, recupera todo el maná y se cura una lesión al azar.","Chaque fois que vous vous endormez&nbsp;: Hausse de stats, mana entièrement restauré, une blessure aléatoire est soignée.","Immer, wenn du einschläfst, erhältst du einen Bonus auf alle Attribute, stellst dein Mana vollständig wieder her und heilst eine zufällige Verletzung.","Ogni volta che ti addormenti, ottieni Aumento delle Statistiche, recuperi tutto il tuo mana e guarisci da una ferita casuale.","Sempre que você adormece, obtenha todos os atributos aumentados, restaure toda a sua mana e cure um ferimento aleatório.","每当你入睡时，
@@ -1930,7 +1930,7 @@ ITEM_MINDSTONE_NAME,Mind Stone,,Piedra mental,Pierre de l'esprit,Gedankenstein,P
 ITEM_MINDSTONE_DESC,Your collarless spells cost -2 mana.,,Los hechizos sin collar cuestan -2 de maná.,Vos sorts sans collier coûtent -2&nbsp;mana.,Deine klassenlosen Zauber kosten -2&nbsp;Mana.,Gli incantesimi dei senza collare costano -2 di mana.,Seus encantamentos sem coleira custam -2 de mana.,"你的无项圈法术消耗减少 2 法力值。
 "
 ITEM_MISSINGPOSTER_NAME,Missing Poster,,Cartel de desaparecido,Avis de recherche,Vermisstenanzeige,Poster di Ricerca,Pôster de Pessoa Desaparecida,寻人启事
-ITEM_MISSINGPOSTER_DESC,???,,¿?,???,???,???,???,???
+ITEM_MISSINGPOSTER_DESC,???,,¿?,???,???,???,???,缺少海报。请检查您的物品清单以确保所有必要的物品都已收集。
 ITEM_MOMSRING_NAME,Mom's Ring,,Anillo de mamá,Bague de maman,Mamas Ring,Anello della Mamma,Anel da Mamãe,妈妈的戒指
 ITEM_MOMSRING_DESC,+1 Damage. Find a pill at the end of each battle.,,+1 de daño. Encuentra una pastilla al final de cada combate.,Dégâts +1. Vous obtenez une pilule au début de chaque combat.,+1&nbsp;Schaden. Finde am Ende jedes Kampfes eine Pille.,+1 al Danno. Trovi una pillola alla fine di ogni battaglia.,+1 de dano. Encontre uma pílula no final de cada batalha.,"+1 伤害。
 每场战斗结束时找到一颗药丸。"
@@ -2438,7 +2438,7 @@ ITEM_MUSHROOMS_NAME,Mushrooms,,Setas,Champis,Pilze,Funghi,Cogumelos,蘑菇
 ITEM_MUSHROOMS_DESC,Use: Gain All Stats Up 2.,,Uso: Obtiene 2 de aumento total.,Utilisation&nbsp;: Hausse de stats +2.,Benutzen: Erhalte einen Bonus von 2 auf alle Attribute.,Uso: Ottieni Aumento delle Statistiche 2.,Uso: obtenha todos os atributos aumentados 2.,使用：所有属性提升2。
 ITEM_NECROMANCERSEAL_NAME,Necromancer Seal,,Sello de nigromante,Sceau de l'occultiste,Totenbeschwörersiegel,Sigillo del Necromante,Selo de Necromante,死灵法师印章
 ITEM_NECROMANCERSEAL_DESC,Use: Permanently turn into a Necromancer.,,Uso: Se transforma para siempre en nigromante.,Utilisation&nbsp;: vous change en occultiste de façon permanente.,Benutzen: Werde dauerhaft zu einem Totenbeschwörer.,Uso: Ti trasformi permanentemente in un Necromante.,Uso: torne-se um necromante permanentemente.,使用：永久变成死灵法师。
-ITEM_PCP_NAME,PCP,,Fenciclidina,Phencyclidine,PCP,PCP,PCP,PCP
+ITEM_PCP_NAME,PCP,,Fenciclidina,Phencyclidine,PCP,PCP,PCP,狂怒增益
 ITEM_PCP_DESC,"Use: Gain +5 Damage and Madness 3.
 This can be used on adjacent units.",,"Uso: Obtiene +5 de daño y 3 de locura.
 Puede usarse con unidades adyacentes.","Utilisation&nbsp;: Dégâts +5, Folie +3.
@@ -2464,10 +2464,10 @@ Ha un 10% di probabilità alla fine di ogni turno di rompersi ed evocare un Gatt
 每回合结束时有10%几率破碎
 并召唤一只被魅惑的迅猛龙幼崽。
 "
-ITEM_ROIDRAGE_NAME,Roid Rage,,Rabia esteroidea,Furioxane,Steroidwut,Rabbia da Steroidi,Roid Rage,Roid Rage
+ITEM_ROIDRAGE_NAME,Roid Rage,,Rabia esteroidea,Furioxane,Steroidwut,Rabbia da Steroidi,Roid Rage,狂暴药剂
 ITEM_ROIDRAGE_DESC,Use: Gain +{aux} [img:str] for the rest of the battle.,,Uso: Obtiene +{aux} [img:str] durante el resto del combate.,Utilisation&nbsp;: [img:str] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:str].,Uso: Ottieni +{aux} alla [img:str] per il resto della battaglia.,Uso: obtenha +{aux} de [img:str] pelo resto da batalha.,"使用：[获得 +{aux} [img:str] 持续整个战斗。
 ]"
-ITEM_ROTISSERIECHICKEN_NAME,Rotisserie Chicken,,Pollo asado,Poulet rôti,Brathähnchen,Pollo allo Spiedo,Galinha de Rotisserie,Rotisserie Chicken
+ITEM_ROTISSERIECHICKEN_NAME,Rotisserie Chicken,,Pollo asado,Poulet rôti,Brathähnchen,Pollo allo Spiedo,Galinha de Rotisserie,烤鸡
 ITEM_ROTISSERIECHICKEN_DESC,Use: Heal {aux} HP.,,Uso: Devuelve {aux} PS.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.,使用：回复 {aux} 生命值。
 ITEM_ROTTENMEAT_NAME,Rotten Meat,,Carne putrefacta,Viande rôtie,Verdorbenes Fleisch,Carne Marcia,Carne Podre,腐肉
 ITEM_ROTTENMEAT_DESC,"Use: Gain Poison 1, then your basic attack becomes Puke Shot.
@@ -2480,10 +2480,10 @@ ITEM_ROTTENMEAT_DESC,"Use: Gain Poison 1, then your basic attack becomes Puke Sh
 然后你的基础攻击变为呕吐射击。
 
 [s:.7](每场战斗一次。)[/s]"
-ITEM_SHOEPOLISH_NAME,Shoe Polish,,Betún,Cirage,Schuhpolitur,Lucido da Scarpe,Cera de Sapato,Shoe Polish
+ITEM_SHOEPOLISH_NAME,Shoe Polish,,Betún,Cirage,Schuhpolitur,Lucido da Scarpe,Cera de Sapato,武器修复剂
 ITEM_SHOEPOLISH_DESC,Use: Fully repair your weapon. Refresh your weapon action.,,Uso: Repara el arma por completo. Restaura la acción de arma.,Utilisation&nbsp;: répare entièrement votre arme et réinitialise son action.,Benutzen: Repariere deine Waffe vollständig. Deine Waffenaktion wird aufgefrischt.,Uso: Ripari completamente la tua arma. Ricarichi la tua azione arma.,Uso: repare totalmente sua arma. Reinicie sua ação de arma.,"使用：完全修复你的武器。
 刷新你的武器行动。"
-ITEM_SITRUSBERRY_NAME,Citrus Berry,,Citrobaya,Baie acidulée,Zitrusbeere,Agrume,Fruta Cítrica,Citrus Berry
+ITEM_SITRUSBERRY_NAME,Citrus Berry,,Citrobaya,Baie acidulée,Zitrusbeere,Agrume,Fruta Cítrica,柑橘果
 ITEM_SITRUSBERRY_DESC,"Use: Heal 25% HP.
 Automatically eaten if your HP drops below 50%.",,"Uso: Devuelve un 25 % de PS.
 Se la come automáticamente si los PS caen por debajo del 50 %.","Utilisation&nbsp;: soigne 25&nbsp;% de PV.
@@ -2493,12 +2493,12 @@ Viene mangiato automaticamente se i tuoi PS scendono sotto al 50%.","Uso: cure 2
 Coma automaticamente este item se sua saúde cair abaixo de 50%.","使用：治疗 25% 生命值。
 当你的生命值低于 50% 时自动食用。
 "
-ITEM_SLEEPDART_NAME,Sleep Dart,,Dardo tranquilizante,Fléchette sédative,Schlafpfeil,Dardo Soporifero,Dardo Tranquilizante,Sleep Dart
+ITEM_SLEEPDART_NAME,Sleep Dart,,Dardo tranquilizante,Fléchette sédative,Schlafpfeil,Dardo Soporifero,Dardo Tranquilizante,催眠飞镖
 ITEM_SLEEPDART_DESC,Use: A straight ranged attack that inflicts Sleep 1.,,Uso: Lanza un ataque a distancia en línea recta que inflige 1 de sueño.,Utilisation&nbsp;: une attaque à distance en ligne droite qui inflige Sommeil +1.,"Benutzen: Ein gerader Fernkampfangriff, der Schlaf&nbsp;1 verursacht.",Uso: Un attacco diretto a distanza che infligge Sonno 1.,Uso: um ataque à distância em linha reta que aplica sono 1.,"使用：直线远程攻击，
 造成睡眠 1。"
-ITEM_SMALLCATNIPBAGGY_NAME,Small Catnip Baggy,,Bolsita de hierba gatera,Petit sachet d'herbe à chat,Kleine Tasche mit Katzenminze,Sacchetto di Erba Gatta Piccolo,Saco de Erva-de-Gato Pequeno,Small Catnip Baggy
+ITEM_SMALLCATNIPBAGGY_NAME,Small Catnip Baggy,,Bolsita de hierba gatera,Petit sachet d'herbe à chat,Kleine Tasche mit Katzenminze,Sacchetto di Erba Gatta Piccolo,Saco de Erva-de-Gato Pequeno,小猫薄荷袋
 ITEM_SMALLCATNIPBAGGY_DESC,Use: Gain {aux} mana.,,Uso: Obtiene {aux} de maná.,Utilisation&nbsp;: rend {aux} mana.,Benutzen: Erhalte {aux}&nbsp;Mana.,Uso: Ottieni {aux} mana.,Uso: obtenha {aux} de mana.,使用：获得 {aux} 法力值。
-ITEM_SMELLINGSALTS_NAME,Smelling Salts,,Sales aromáticas,Sels d'ammoniaque,Riechsalz,Sali,Sais de Cheiro,Smelling Salts
+ITEM_SMELLINGSALTS_NAME,Smelling Salts,,Sales aromáticas,Sels d'ammoniaque,Riechsalz,Sali,Sais de Cheiro,嗅盐
 ITEM_SMELLINGSALTS_DESC,"Use: Revive an adjacent unit at 1 HP.
 Automatically used on yourself at the end of the round if you're downed.",,"Uso: Resucita a una unidad adyacente con 1 PS.
 Esta unidad las consume automáticamente al final de la ronda si ha caído abatida.","Utilisation&nbsp;: réanime une unité adjacente avec 1&nbsp;PV.
@@ -2509,10 +2509,10 @@ Este item é usado automaticamente se você estiver inconsciente no final da rod
 恢复 1 生命值。
 如果你倒地，回合结束时自动使用。
 "
-ITEM_SPEEDBALL_NAME,Speedball,,Anfeta,Caféine,Speedball,Anfetamina,Speedball,Speedball
+ITEM_SPEEDBALL_NAME,Speedball,,Anfeta,Caféine,Speedball,Anfetamina,Speedball,极速球
 ITEM_SPEEDBALL_DESC,Use: Gain +{aux} [img:dex] for the rest of the battle.,,Uso: Obtiene +{aux} [img:dex] durante el resto del combate.,Utilisation&nbsp;: [img:dex] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:dex].,Uso: Ottieni +{aux} alla [img:dex] per il resto della battaglia.,Uso: obtenha +{aux} de [img:dex] pelo resto da batalha.,"使用：[获得 +{aux} [img:dex] 持续整个战斗。
 ]"
-ITEM_STAR_NAME,Star,,Estrella,Étoile,Stern,Stella,Estrela,Star
+ITEM_STAR_NAME,Star,,Estrella,Étoile,Stern,Stella,Estrela,星辰
 ITEM_STAR_DESC,"Use: Gain Invincibility, +10 Thorns, and Trample until the start of your next turn. Refresh your movement action.",,"Uso: Obtiene invencibilidad, +10 de espinas y pisotón hasta el próximo turno. Restaura la acción de movimiento.","Utilisation&nbsp;: vous confère Invincibilité, Épines +10, et Piétinement jusqu'au début de votre prochain tour. Réinitialise votre action de déplacement.","Benutzen: Erhalte bis zum Anfang deines nächsten Zuges Unverwundbarkeit, +10&nbsp;Dornen und Trampel. Frische deine Bewegungsaktion auf.","Uso: Ottieni Invincibilità, +10 Spine e Calpestamento fino all'inizio del tuo prossimo turno. Ricarichi la tua azione di movimento.","Uso: obtenha invencibilidade, +10 de espinhos e atropelamento até o início do próximo turno. Reinicie sua ação de movimento.","使用：获得无敌，+10 棘刺，
 
 践踏，持续到你下回合开始。
@@ -3045,7 +3045,7 @@ ARMOR_LUCKYTWINE_DESC,75% chance to Grapple units that make contact with you.,,7
 ARMOR_MAMALEECH_NAME,Mama Leech,,Mamá sanguijuela,Maman sangsue,Mama Blutegel,Mamma Sanguisuga,Mamãe Sanguessuga,水蛭妈妈
 ARMOR_MAMALEECH_DESC,"After every third spell you cast, spawn a Leech familiar.",,"Tras cada tercer hechizo, esta unidad genera un familiar sanguijuela.","Après avoir lancé votre 3e sort, une sangsue de compagnie est invoqué.","Nach jedem dritten Zauber, den du wirkst, rufst du einen Blutegelbegleiter.","Dopo ogni terzo incantesimo che lanci, generi un famiglio Sanguisuga.","Após cada terceiro encantamento lançado, gere um familiar sanguessuga.","每施放第3个法术时，
 召唤一个水蛭宠物。"
-ARMOR_MARKIV_NAME,Mark IV,,Marca IV,Marque IV,Mark IV,Mark IV,Mark IV,Mark IV
+ARMOR_MARKIV_NAME,Mark IV,,Marca IV,Marque IV,Mark IV,Mark IV,Mark IV,盔甲四代
 ARMOR_MARKIV_DESC,"After every fourth spell you cast, gain +2 [img:int].",,"Tras cada cuarto hechizo, esta unidad obtiene +2 [img:int].",[img:int] +2&nbsp;après chaque 4e sort que vous lancez.,"Nach jedem vierten Zauber, den du wirkst, erhältst du +2&nbsp;[img:int].","Dopo ogni quarto incantesimo lanciato, ottieni +2 all'[img:int].","Após cada quarto encantamento lançado, obtenha +2 de [img:int].","每施放第4个法术时，
 获得+2 [img:int]。"
 ARMOR_MEEKSTONE_NAME,Meek Stone,,Piedra mansa,Pierre résiliente,Stein des Sanftmuts,Pietra Mite,Pedra da Docilidade,谦逊之石
@@ -3209,7 +3209,7 @@ ARMOR_BLACKBELT_DESC,25% chance to block attacks and counter attack.,,25 % de p
 ARMOR_BLESSEDASHES_NAME,Blessed Ashes,,Cenizas benditas,Cendre bénies,Gesegnete Asche,Ceneri Benedette,Cinzas Abençoadas,被祝福的灰烬
 ARMOR_BLESSEDASHES_DESC,Gain +3 [img:shield] once per battle when your HP is 3 or less.,,Obtiene +3 [img:shield] una vez por combate cuando tiene 3 o menos PS.,[img:shield] +3&nbsp;une fois par combat quand vos PV sont de 3&nbsp;ou moins.,"Erhalte einmal pro Kampf +3&nbsp;[img:shield], wenn du 3 oder weniger LP hast.",Ottieni +3 allo [img:shield] una volta per battaglia quando i tuoi PS sono pari o inferiori a 3.,Obtenha +3 de [img:shield] uma vez por batalha quando sua saúde atingir 3 ou menos.,"当你的生命值低于或等于3时，
 每场战斗获得一次 +3 [img:shield]。"
-ARMOR_BOZO_NAME,Bozo,,Bozo,Nez rouge,Clownsnase,Buffone,Bozo,Bozo
+ARMOR_BOZO_NAME,Bozo,,Bozo,Nez rouge,Clownsnase,Buffone,Bozo,恐惧小丑
 ARMOR_BOZO_DESC,Your basic attack has a +15% chance to inflict Fear.,,El ataque básico tiene un 15 % de probabilidad de infligir miedo.,Votre attaque de base a +15&nbsp;% de chances d'infliger Peur.,"Dein Grundangriff hat eine +15%ige Wahrscheinlichkeit, Angst zu verursachen.",Il tuo attacco base ha una probabilità del +15% di infliggere Paura.,Seu ataque básico possui +15% de chance de aplicar medo.,"你的基本攻击有额外15%的几率造成恐惧。
 "
 ARMOR_BROWNBELT_NAME,Brown Belt,,Cinturón marrón,Ceinture marron,Brauner Gürtel,Cintura Marrone,Faixa Marrom,棕色腰带
@@ -3619,11 +3619,11 @@ SETBONUS_BARBED_NAME,Barbed Set Bonus!,,¡Bonificación de conjunto de espino!,B
 SETBONUS_BARBED_DESC,+3 Thorns.,,+3 de espinas.,Épines +3.,+3&nbsp;Dornen.,+3 Spine.,+3 de espinhos.,+3 荆棘。
 ,,,,,,,,
 ARMOR_BIGROCKHAT_NAME,Big Rock Hat,,Sombrero de roca grande,Chapeau rocher,Großer Steinhelm,Cappello di Roccia Grande,Chapéu de Pedra Grande,大岩石帽
-ARMOR_BIGROCKHAT_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,Brace 2.
+ARMOR_BIGROCKHAT_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,护甲 2。
 ARMOR_BIGROCKMASK_NAME,Big Rock Mask,,Máscara de roca grande,Masque rocher,Große Steinmaske,Maschera di Roccia Grande,Máscara de Pedra Grande,大岩面具
-ARMOR_BIGROCKMASK_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,Brace 2.
+ARMOR_BIGROCKMASK_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,护甲 2。
 ARMOR_BIGROCKNECKLACE_NAME,Big Rock Necklace,,Gargantilla de roca grande,Collier rocher,Großes Steinhalsband,Collana di Roccia Grande,Colar de Pedra Grande,大岩项链
-ARMOR_BIGROCKNECKLACE_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,Brace 2.
+ARMOR_BIGROCKNECKLACE_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,护腕 2。
 SETBONUS_BIGROCK_NAME,Big Rock Set Bonus!,,¡Bonificación de conjunto de roca grande!,Bonus d'ensemble&nbsp;: rocher&nbsp;!,Setbonus: Große Steine!,Bonus Set: Roccia Grande!,Bônus de Conjunto de Pedra Grande!,大岩套装加成！
 SETBONUS_BIGROCK_DESC,Spawn 2 Charmed Geolads at the start of each battle.,,Genera 2 petráqueos embrujados al inicio de cada combate.,Invoque 2&nbsp;racaillots envoûtés au début de chaque combat.,Rufe am Anfang jedes Kampfes 2 freundliche Steinkleins.,Generi 2 Geotipi Ammaliati all'inizio di ogni battaglia.,Gere 2 granitoides enfeitiçados no início de cada batalha.,"在每场战斗开始时生成2个被魅惑的地质精灵。
 "
@@ -5656,9 +5656,9 @@ ITEM_SLAGTIGHT_NAME,Slag Tight,,Estala gtita,Stalactite,Fetter Stamm,Stala Gtite
 ITEM_SLAGTIGHT_DESC,Brace 1. Your basic attack inflicts Bruise 1.,,1 de refuerzo. El ataque básico inflige 1 de moratón.,Garde +1. Votre attaque de base inflige Contusion +1.,Wappnen&nbsp;1. Dein Grundangriff verursacht Beulen&nbsp;1.,Guardia 1. Il tuo attacco base infligge Livido 1.,Preparação 1. Seu ataque básico aplica contusão 1.,"Brace 1。
 你的基本攻击造成 Bruise 1。
 "
-ITEM_SPLINTERS_NAME,Splinters,,Astillas,Échardes,Splitter,Schegge,Lascas,Splinters
+ITEM_SPLINTERS_NAME,Splinters,,Astillas,Échardes,Splitter,Schegge,Lascas,碎片
 ITEM_SPLINTERS_DESC,,,,,,,,
-ITEM_VIBRATINGMETEORITE_NAME,Vibrating Meteorite,,Meteorito vibrante,Météorite vibrante,Vibrierender Meteorit,Meteorite Vibrante,Meteorito Vibrante,Vibrating Meteorite
+ITEM_VIBRATINGMETEORITE_NAME,Vibrating Meteorite,,Meteorito vibrante,Météorite vibrante,Vibrierender Meteorit,Meteorite Vibrante,Meteorito Vibrante,震动陨石
 ITEM_VIBRATINGMETEORITE_DESC,"This item loses 1 of each stat at the end of each battle, permanently.
 [s:.7](This can go negative.)[/s]",,"Este objeto pierde 1 de cada atributo al final de cada combate, para siempre.
 [s:.7](Puede hacerse negativo).[/s]","Cet objet perd 1&nbsp;point de chaque stat à la fin de chaque combat de façon permanente.
@@ -5670,25 +5670,25 @@ ITEM_VIBRATINGMETEORITE_DESC,"This item loses 1 of each stat at the end of each 
 [s:.7](这可能变成负数。)[/s]"
 ,,,,,,,,
 //quest,,,,,,,,
-ARMOR_ANGRYFACE_NAME,Angry Face,,Carita enfadada,Visage en rogne,Wütendes Gesicht,Faccia Arrabbiata,Rosto Irritado,Angry Face
+ARMOR_ANGRYFACE_NAME,Angry Face,,Carita enfadada,Visage en rogne,Wütendes Gesicht,Faccia Arrabbiata,Rosto Irritado,愤怒面具
 ARMOR_ANGRYFACE_DESC,"Side Quest Item. Equipped cat is an enemy, must be downed to win the battle, and can still receive level ups. Can't be equipped to a Collarless cat.",,"Objeto de misión secundaria. El gato equipado es enemigo, debe estar abatido para ganar el combate, y aún puede recibir subidas de nivel. Los gatos sin collar no pueden equiparse con este objeto.","Objet de quête secondaire. Le chat équipé est un ennemi, il doit être tué pour gagner le combat et peut toujours monter de niveau. Inéquipable sur un chat sans collier.","Nebenquestgegenstand. Die Katze, die diesen Gegenstand ausgerüstet hat, ist ein Gegner. Sie muss besiegt werden, um den Kampf zu gewinnen und kann trotzdem aufleveln. Klassenlose Katzen können dies nicht ausrüsten.","Oggetto per missione secondaria. Il gatto equipaggiato è un nemico, va messo KO per vincere la battaglia e può comunque salire di livello. Non può essere equipaggiata su un gatto Senza Collare.","Item de missão secundária. O gato que equipar este item se torna um inimigo e precisa ficar inconsciente para que você vença a batalha, mas ainda pode subir de nível. Não pode ser equipado com um gato sem coleira.","支线任务物品。
 装备的猫是敌人，必须击倒才能赢得战斗，
 并且仍可升级。不能装备在无项圈猫上。
 "
-ARMOR_ANGRYFACE_FIXED_NAME,Happy Face,,Carita sonriente,Visage enjoué,Lachendes Gesicht,Faccia Felice,Rosto Feliz,Happy Face
+ARMOR_ANGRYFACE_FIXED_NAME,Happy Face,,Carita sonriente,Visage enjoué,Lachendes Gesicht,Faccia Felice,Rosto Feliz,愤怒面具
 ARMOR_ANGRYFACE_FIXED_DESC,Spawn near enemies and take an AI controlled bonus turn at the start of every battle.,,Genera enemigos cercanos y juega un turno de bonificación controlado por la IA al inicio de cada combate.,Vous apparaissez près des ennemis et effectuez un tour bonus contrôlé par l'IA au début de chaque combat.,Du beginnst den Kampf in der Nähe von Gegnern und führst am Anfang jedes Kampfes einen zusätzlichen computergesteuerten Zug aus.,Si genera vicino ai nemici e ti consente di effettuare un turno bonus controllato dall'IA all'inizio di ogni battaglia.,Gere inimigos próximos e obtenha um turno sob controle do computador no início de cada batalha.,"每场战斗开始时在敌人附近生成
 并获得一次 AI 控制的额外回合。
 "
-ARMOR_BUBBLEBOY_NAME,Bubble Boy,,Niño Burbuja,Bulle protectrice,Bubble Boy,Ragazzo Bolla,Menino Bolha,Bubble Boy
+ARMOR_BUBBLEBOY_NAME,Bubble Boy,,Niño Burbuja,Bulle protectrice,Bubble Boy,Ragazzo Bolla,Menino Bolha,泡泡小子
 ARMOR_BUBBLEBOY_DESC,Side Quest Item. All units rebound with Knockback 5 on contact.,,Objeto de misión secundaria. Todas las unidades rebotan con 5 de retroceso al contactar.,Objet de quête secondaire. Toutes les unités subissent Recul +5&nbsp;au contact.,Nebenquestgegenstand. Alle Einheiten auf der Karte werden bei Kontakt mit Rückstoß&nbsp;5 zurückgestoßen.,Oggetto per missione secondaria. Tutte le unità rimbalzano con Contraccolpo 5 al contatto.,Item de missão secundária. Todas as unidades ricocheteiam com empurrão 5 ao entrar em contato.,"支线任务物品。
 所有单位接触时反弹，
 附带 Knockback 5 效果。
 "
-ARMOR_CHAOSDEVICE_NAME,Chaos Device,,Dispositivo del caos,Outil du chaos,Chaosgerät,Dispositivo del Caos,Dispositivo do Caos,Chaos Device
+ARMOR_CHAOSDEVICE_NAME,Chaos Device,,Dispositivo del caos,Outil du chaos,Chaosgerät,Dispositivo del Caos,Dispositivo do Caos,混沌装置
 ARMOR_CHAOSDEVICE_DESC,Side Quest Item. When any cat levels up they are offered abilities from all classes.,,"Objeto de misión secundaria. Cuando cualquier gato sube de nivel, se le ofrece habilidades de todas las clases.","Objet de quête secondaire. Quand un chat monte de niveau, des compétences de toutes classes lui sont proposées.","Nebenquestgegenstand. Wenn Katzen aufleveln, erscheinen Fähigkeiten einer beliebigen Klasse zum Auswählen.","Oggetto per missione secondaria. Quando un gatto sale di livello, gli vengono offerte abilità di tutte le classi.","Item de missão secundária. Quando qualquer gato sobe de nível, habilidades de todas as classes são oferecidas.","支线任务物品。
 任何猫升级时都会获得所有职业的技能。
 "
-ARMOR_CHAOSDEVICE_FIXED_NAME,Chaos Controller,,Mando del caos,Contrôle du chaos,Chaossteuerung,Controllore del Caos,Controlador do Caos,Chaos Controller
+ARMOR_CHAOSDEVICE_FIXED_NAME,Chaos Controller,,Mando del caos,Contrôle du chaos,Chaossteuerung,Controllore del Caos,Controlador do Caos,混沌掌控者
 ARMOR_CHAOSDEVICE_FIXED_DESC,Abilities from all classes are offered when you level up. You can reroll your levelup options thrice.,,Se ofrecen habilidades de todas las clases al subir de nivel. Se pueden cambiar al azar tres veces las opciones de subida de nivel.,Des compétences de toutes classes vous sont proposées quand vous montez de niveau. Vous pouvez tirer de nouvelles options jusqu'à 3&nbsp;fois.,"Wenn Katzen aufleveln, erscheinen Fähigkeiten einer beliebigen Klasse zum Auswählen. Du kannst deine Auswahlmöglichkeiten dreimal neu generieren, wenn du ein Level aufsteigst.",Ti vengono offerte abilità di tutte le classi quando sali di livello. Puoi modificare le tue scelte per tre volte.,Habilidades de todas as classes são oferecidas ao subir de nível. Você pode rolar suas opções novamente três vezes.,"升级时提供所有职业的技能选项。
 
 你可以重选升级选项三次。"
@@ -5696,10 +5696,10 @@ ARMOR_EXPERIMENTALTREATMENT_NAME,Experimental Treatment,,Tratamiento Experimenta
 ARMOR_EXPERIMENTALTREATMENT_DESC,Side Quest Item. Your team's passive ability level ups offer disorders instead.,,Objeto de misión secundaria. La habilidad pasiva del grupo ofrece trastornos al subir de nivel.,Objet de quête secondaire. Des troubles vous sont proposés quand la compétence passive de votre équipe monte de niveau.,"Nebenquestgegenstand. Wenn du normalerweise Passivfähigkeiten aufleveln würdest, kannst du stattdessen Störungen erhalten.",Oggetto per missione secondaria. Gli aumenti di livello delle abilità passive della tua squadra sono dei disturbi.,Item de missão secundária. Os novos níveis das habilidades passivas de sua equipe passam a oferecer transtornos.,"支线任务物品。
 你队伍的被动能力升级改为提供障碍效果。
 "
-ARMOR_EXPERIMENTALTREATMENT_FIXED_NAME,Disorder Decoder,,Descodificador de Trastornos,Décodeur de troubles,Entstörungssender,Decodificatore di Disturbi,Decodificador de Transtornos,Disorder Decoder
+ARMOR_EXPERIMENTALTREATMENT_FIXED_NAME,Disorder Decoder,,Descodificador de Trastornos,Décodeur de troubles,Entstörungssender,Decodificatore di Disturbi,Decodificador de Transtornos,混乱解码器
 ARMOR_EXPERIMENTALTREATMENT_FIXED_DESC,Your spells cost 1 less for each disorder you have.,,Sus hechizos cuestan 1 menos por cada trastorno que sufre esta unidad.,Vos sorts coûtent -1&nbsp;mana pour chaque trouble qui vous affecte.,"Deine Zauber kosten pro Störung, unter der du leidest, 1&nbsp;Mana weniger.",I tuoi incantesimi costano 1 in meno per ogni disturbo che hai.,Seus encantamentos custam 1 a menos para cada transtorno que você possui.,"你的法术每有一个障碍，
 消耗减少 1。"
-ARMOR_FARTFACE_NAME,Fart Face,,Caraculo,Face de pet,Furzgesicht,Faccia da Peto,Cara de Pum,Fart Face
+ARMOR_FARTFACE_NAME,Fart Face,,Caraculo,Face de pet,Furzgesicht,Faccia da Peto,Cara de Pum,毒脸盔甲
 ARMOR_FARTFACE_DESC,Side Quest Item. Apply Poison 1 to everything at the start of the battle.,,Objeto de misión secundaria. Aplica 1 de veneno a todo al inicio del combate.,Objet de quête secondaire. Toutes les unités subissent Poison +1&nbsp;en début de combat.,Nebenquestgegenstand. Verursache am Anfang des Kampfes bei allen Einheiten Gift&nbsp;1.,Oggetto per missione secondaria. Applichi Veleno 1 a tutto all'inizio della battaglia.,Item de missão secundária. Aplique veneno 1 em tudo no início da batalha.,"支线任务物品。
 战斗开始时对所有单位施加 Poison 1。
 "

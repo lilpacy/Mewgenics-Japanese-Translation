@@ -412,7 +412,7 @@ PASSIVE_MANIA2_DESC,25% chance to restore all your mana at the start of your tur
 PASSIVE_LUCKY_NAME,Lucky,,Fortuna,Chance,Glückskätzchen,Fortuna,Sorte,幸运
 PASSIVE_LUCKY_DESC,,,,,,,,
 PASSIVE_LUCKY2_DESC,,,,,,,,
-PASSIVE_180_NAME,180,,180,180°,180,180 gradi,180,180
+PASSIVE_180_NAME,180,,180,180°,180,180 gradi,180,反击旋转
 PASSIVE_180_DESC,"When you use your basic attack, turn around and use it again.",,"Al usar el ataque básico, se gira y vuelve a usarlo.","Quand vous utilisez votre attaque de base, retournez-vous et utilisez-la à nouveau.",Drehe dich nach deinem Grundangriff um und verwende ihn erneut.,"Quando usi il tuo attacco base, ti giri e lo usi di nuovo.","Ao utilizar seu ataque básico, vire-se e o utilize novamente.","当你使用基础攻击时，
 转身再使用一次。"
 PASSIVE_1802_DESC,"When you use your basic attack, turn around and use it again.
@@ -746,7 +746,7 @@ PASSIVE_GRAPPLINGHOOK_MULTICLASS_DESC,Your weapon pulls you toward knockback-imm
 PASSIVE_GRAPPLINGHOOK2_MULTICLASS_DESC,Your weapon pulls you toward knockback-immune objects. Refresh your movement action when you use your weapon. ,,"El arma acerca a esta unidad hacia objetos inmunes al retroceso. Cuando se utiliza, restaura la acción de movimiento. ",Votre arme vous tire vers les objets immunisés au recul. Réinitialise votre action de déplacement quand vous utilisez votre arme.,"Deine Waffe kann dich zu Objekten ziehen, die immun gegen Rückstoß sind. Deine Bewegungsaktion frischt sich auf, wenn du deinen Haken benutzt. ",La tua arma ti trascina verso oggetti immuni al contraccolpo. Quando usi l'arma ricarichi la tua azione di movimento.,Sua arma puxa você na direção de objetos imunes contra empurrões. Reinicie sua ação de movimento ao utilizar sua arma.,"你的武器将你拉向免疫击退的物体。
 
 使用武器时刷新你的移动动作。"
-PASSIVE_PAINGAIN_NAME,Rankle,,Irritación,Irritable,Ärger,Astio,Rabugice,Rankle
+PASSIVE_PAINGAIN_NAME,Rankle,,Irritación,Irritable,Ärger,Astio,Rabugice,激怒
 PASSIVE_PAINGAIN_DESC,"When you take damage, gain +2 Temp Damage.",,"Al sufrir daño, obtiene +2 de daño temporal.",Dégâts temporaires&nbsp;+2&nbsp;quand vous subissez des dégâts.,"Erhalte +2&nbsp;vorübergehenden Schaden, wenn du Schaden erleidest.","Quando subisci danno, ottieni +2 al Danno Temporaneo.","Ao sofrer dano, obtenha +2 de dano temporário.","受到伤害时，
 获得+2临时伤害。"
 PASSIVE_PAINGAIN2_DESC,"When you take damage, gain +1 Damage and +1 Temp Damage.
@@ -2381,7 +2381,7 @@ PASSIVE_THRILLOFTHEHUNT2_DESC,"At the end of each battle, if you killed at least
 额外获得+1射程和+1生命恢复。
 "
 //tinkerer,,,,,,,,
-PASSIVE_VERSIONTWO_NAME,v2.0,,v2.0,v2.0,v2.0,v2.0,v2.0,v2.0
+PASSIVE_VERSIONTWO_NAME,v2.0,,v2.0,v2.0,v2.0,v2.0,v2.0,科技守护者2.0
 PASSIVE_VERSIONTWO_DESC,"Start with 1 Tech.
 Your Tech can't drop below 1.",,"Empieza con 1 de tecnología.
 La tecnología no puede bajar de 1.",Vous commencez avec Techno&nbsp;+1. Le minimum est toujours de 1.,"Beginne jeden Kampf mit 1&nbsp;Technologie.
@@ -2430,7 +2430,7 @@ PASSIVE_FUZZYFEET2_DESC,"When you end your movement, deal 1 Electric Damage to a
 PASSIVE_ARMORSPECIALIST_NAME,Armor Specialist,,Especialista en armaduras,Spécialiste des armures,Rüstungsspezialist,Specialista delle Armature,Especialista em Armas,护甲专家
 PASSIVE_ARMORSPECIALIST_DESC,Your equipment passive effects are doubled.,,Se duplican los efectos pasivos del equipamiento.,Les effets passifs de votre équipement sont doublés.,Die Passiveffekte deiner Ausrüstung werden verdoppelt.,Gli effetti passivi del tuo equipaggiamento sono raddoppiati.,Seus efeitos passivos de equipamentos são dobrados.,你的装备被动效果加倍。
 PASSIVE_ARMORSPECIALIST2_DESC,Your equipment passive and active effects are doubled.,,Se duplican los efectos pasivos y activos del equipamiento.,Les effets actifs et passifs de votre équipement sont doublés.,Die Passiv- und Aktiveffekte deiner Ausrüstung werden verdoppelt.,Gli effetti passivi e attivi del tuo equipaggiamento sono raddoppiati.,Seus efeitos passivos e ativos de equipamentos são dobrados.,你的装备被动和主动效果加倍。
-PASSIVE_EMP_NAME,EMP,,PEM,IEM,EMP,EMP,PEM,EMP
+PASSIVE_EMP_NAME,EMP,,PEM,IEM,EMP,EMP,PEM,电击爆炸
 PASSIVE_EMP_DESC,"Your explosions are Electric element and deal +1 damage.
 Instead of knockback, explosions have a chance to inflict Stun.",,"Las explosiones son eléctricas e infligen +1 de daño.
 En vez de retroceso, las explosiones tienen una probabilidad de aturdir.","Vos explosions sont de type électrique et inflige Dégâts&nbsp;+1. Au lieu de faire reculer, les explosions ont une chance d'infliger Étourdissement.","Deine Explosionen sind elektrisch und verursachen +1&nbsp;Schaden.
@@ -3844,7 +3844,7 @@ DISORDER_LYCANTHROPY_DESC,33% chance to enter Wolf Form at the start of your tur
 DISORDER_WOBBLYCATSYNDROME_NAME,Wobbly Cat Syndrome,,Hipoplasia cerebelosa,Ataxie féline,Wobbler-Syndrom,Sindrome del Gatto Barcollante,Síndrome do Gato Cambaleante,摇摆症猫
 DISORDER_WOBBLYCATSYNDROME_DESC,25% chance to block attacks and get knocked back 10 tiles instead.,,25 % de probabilidad de bloquear ataques y retroceder 10 casillas en su lugar.,25&nbsp;% de chances de bloquer les attaques et de reculer de 10&nbsp;cases.,"25%ige Wahrscheinlichkeit, Angriffe zu blockieren und stattdessen 10&nbsp;Felder zurückgestoßen zu werden.",25% di probabilità di bloccare gli attacchi e di farsi respingere indietro di 10 caselle.,25% de chance de bloquear ataques e sofrer um empurrão de 10 espaços para trás.,"25%的几率格挡攻击并被击退10格。
 "
-DISORDER_SINGLETON_NAME,Singleton,,Solitario,Exemplaire unique,Singleton,Singolarità,Unidade,Singleton
+DISORDER_SINGLETON_NAME,Singleton,,Solitario,Exemplaire unique,Singleton,Singolarità,Unidade,猛1
 DISORDER_SINGLETON_DESC,"Your max HP and mana are reduced to 1.
 Damage you take is reduced to 1.
 Your spells cost 1 mana.",,"Los PS máximos y el maná se reducen a 1.
@@ -3859,7 +3859,7 @@ Seus encantamentos custam 1 de mana.","你的最大生命值和法力值被降�
 
 你受到的伤害被减少至1。
 你的法术消耗1点法力值。"
-DISORDER_INSOMNIA_NAME,Insomnia,,Insomnio,Insomnie.,Schlafstörung,Insonnia,Insônia,Insomnia
+DISORDER_INSOMNIA_NAME,Insomnia,,Insomnio,Insomnie.,Schlafstörung,Insonnia,Insônia,失眠
 DISORDER_INSOMNIA_DESC,"You can't fall asleep.
 You can move an extra time each turn. Exhaustion sets in on round 3.",,"No puede dormirse.
 Puede moverse otra vez cada turno. Sufre agotamiento en la ronda 3.",Vous ne pouvez pas vous endormir. Vous pouvez vous déplacer une fois de plus chaque tour. L'Épuisement survient lors de la 3e&nbsp;manche.,"Du kannst nicht einschlafen.
@@ -3868,7 +3868,7 @@ Puoi muoverti una volta in più ogni turno. La spossatezza subentra al terzo rou
 Você pode se mover uma vez adicional a cada turno. A exaustão se instala na rodada 3.","你无法入睡。
 你每回合可以多行动一次。
 疲惫将在第3回合生效。"
-DISORDER_PHONY_NAME,Phony,,Hipocresía,Bidon,Heuchler,Falsità,Cópia,Phony
+DISORDER_PHONY_NAME,Phony,,Hipocresía,Bidon,Heuchler,Falsità,Cópia,伪装者
 DISORDER_PHONY_DESC,"Start each battle with full mana.
 You can't regenerate mana.",,"Empieza cada combate con todo el maná.
 No puede regenerar maná.",Vous commencez chaque combat avec tout votre mana. Vous ne pouvez pas récupérer de mana.,"Beginne jeden Kampf mit vollem Mana.
@@ -3876,15 +3876,15 @@ Du kannst kein Mana regenerieren.","Inizi ogni battaglia con mana pieno.
 Non puoi rigenerare il mana.","Inicie cada batalha com mana completa.
 Você não pode regenerar mana.","每场战斗开始时法力值全满。
 你无法恢复法力值。"
-DISORDER_ACIDREFLUX_NAME,Acid Reflux,,Reflujo ácido,Remontées acides,Säure-Reflux,Reflusso Acido,Refluxo,Acid Reflux
+DISORDER_ACIDREFLUX_NAME,Acid Reflux,,Reflujo ácido,Remontées acides,Säure-Reflux,Reflusso Acido,Refluxo,胃反酸
 DISORDER_ACIDREFLUX_DESC,Your basic attack becomes a lobbed shot with splash damage but deals 2 damage to you.,,"El ataque básico se convierte en un tiro en arco con daño por metralla, pero le inflige 2 de daño a esta unidad.","Votre attaque de base devient une attaque en cloche qui inflige des dégâts collatéraux, mais qui vous inflige 2&nbsp;points de dégâts.","Dein Grundangriff wird ein Fernkampfangriff, der Hindernisse ignoriert und Flächenschaden verursacht. Er fügt dir ebenfalls 2&nbsp;Schaden zu.","Il tuo attacco base diventa un colpo a parabola con danno ad area, ma ti infligge 2 di danno.","Seu ataque básico se torna um disparo em arco com dano em área, mas causa 2 de dano a você.","你的普通攻击变成带有溅射伤害的掷射攻击，
 
 但会对你造成2点伤害。"
-DISORDER_SPONTANEOUSCOMBUSTION_NAME,Spontaneous Combustion,,Combustión espontánea,Combustion spontanée,Spontane Selbstentzündung,Combustione Spontanea,Combustão Espontânea,Spontaneous Combustion
+DISORDER_SPONTANEOUSCOMBUSTION_NAME,Spontaneous Combustion,,Combustión espontánea,Combustion spontanée,Spontane Selbstentzündung,Combustione Spontanea,Combustão Espontânea,自燃
 DISORDER_SPONTANEOUSCOMBUSTION_DESC,"When you take damage from an ability, you have a 15% chance to inflict Burn 5 on yourself and adjacent units.",,"Al sufrir daño de una habilidad, tiene un 15 % de probabilidad de infligir 5 de quemadura a sí misma y a las unidades adyacentes.","Quand vous subissez des dégâts d'une compétence, 15&nbsp;% de chances de vous infliger Brûlure&nbsp;+5&nbsp;ainsi qu'aux unités adjacentes.","Wenn du Schaden von einer Fähigkeit erleidest, besteht eine 15%ige Wahrscheinlichkeit, dass du und benachbarte Einheiten Verbrennung&nbsp;5 erleiden.","Quando subisci danno da un'abilità, hai il 15% di probabilità di infliggere Bruciatura 5 a te e alle unità adiacenti.","Ao sofrer dano de uma habilidade, você possui 15% de chance de aplicar queimadura 5 em si e em unidades adjacentes.","当你受到技能伤害时，
 有15%的几率对你自己及邻近单位施加燃烧5。
 "
-DISORDER_THEHUNGER_NAME,The Hunger,,Hambre,La soif,Der Hunger,Fame,A Fome,The Hunger
+DISORDER_THEHUNGER_NAME,The Hunger,,Hambre,La soif,Der Hunger,Fame,A Fome,饥饿
 DISORDER_THEHUNGER_DESC,"Your basic attack has lifesteal.
 If you don't deal damage to a unit on your turn, gain Madness 1.",,"El ataque básico tiene robavida.
 Si no inflige daño a una unidad en su turno, obtiene +1 de locura.","Votre attaque de base dispose de Vol de vie. Si vous n'infligez pas de dégâts à une unité pendant votre tour, Folie&nbsp;+1.","Dein Grundangriff kann Leben absaugen.
@@ -3894,7 +3894,7 @@ Se você não causar dano a uma unidade durante seu turno, obtenha insanidade 1.
 如果你在回合内未对单位造成伤害，
 
 获得疯狂1。"
-DISORDER_PARAPELEGIC_NAME,Paraplegic,,Paraplejia,Paraplégique,Querschnittsgelähmt,Paraplegia,Paraplegia,Paraplegic
+DISORDER_PARAPELEGIC_NAME,Paraplegic,,Paraplejia,Paraplégique,Querschnittsgelähmt,Paraplegia,Paraplegia,半身不遂
 DISORDER_PARAPELEGIC_DESC,"The range of all your movement, dash, and jump abilities are capped at 1 unless they teleport.
 Enemies won't prioritize attacking you.",,"Se limita a 1 el radio de alcance de todo el movimiento y las habilidades de embestida y salto a menos que se utilice el teletransporte.
 Los enemigos no priorizan el ataque a esta unidad.","Les portées de toutes vos compétences de déplacement, d'impulsion et de saut sont limitées à&nbsp;1&nbsp;(sauf pour la téléportation). Vous n'êtes pas une cible prioritaire pour les ennemis.","Die Reichweite deiner Bewegungs-, Ansturm- und Sprungfähigkeiten sind auf 1 begrenzt, wenn es keine Teleports sind.
@@ -3904,7 +3904,7 @@ Inimigos não priorizam atacar você.","除非瞬移，否则你所有移动、
 冲刺和跳跃技能的距离上限为1。
 
 敌人不会优先攻击你。"
-DISORDER_OSTEOGENESISIMPERFECTA_NAME,Osteogenesis Imperfecta,,Osteogénesis imperfecta,Maladie des os de verre,Osteogenesis Imperfecta,Osteogenesi Imperfetta,Osteogênese Imperfeita,Osteogenesis Imperfecta
+DISORDER_OSTEOGENESISIMPERFECTA_NAME,Osteogenesis Imperfecta,,Osteogénesis imperfecta,Maladie des os de verre,Osteogenesis Imperfecta,Osteogenesi Imperfetta,Osteogênese Imperfeita,脆骨症
 DISORDER_OSTEOGENESISIMPERFECTA_DESC,"+2 Bruise, +2 Bleed Thorns, and +2 Thorns.
 When you're downed, you get injured an extra time.",,"+2 de moratón, +2 de espinas hemorrágicas y +2 de espinas.
 Cuando es abatida, sufre lesiones otra vez.","Contusion&nbsp;+2, Épines sanglantes&nbsp;+2&nbsp;et Épines&nbsp;+2. Lorsque vous êtes K.O., vous recevez une blessure supplémentaire.","+2&nbsp;Beulen, +2&nbsp;Blutige Dornen und +2&nbsp;Dornen.
@@ -3913,9 +3913,9 @@ Quando vai KO, subisci una ferita aggiuntiva.","+2 de contusão, +2 de espinhos 
 Ao ficar inconsciente, você obtém um ferimento adicional.","+2 挫伤，+2 流血荆棘，
 +2 荆棘。
 当你倒地时，会额外受伤一次。"
-DISORDER_GARGANTUAN_NAME,Gargantuan,,Pantagruélico,Gargantuesque,Gigantisch,Gargantuismo,Gigantesco,Gargantuan
+DISORDER_GARGANTUAN_NAME,Gargantuan,,Pantagruélico,Gargantuesque,Gigantisch,Gargantuismo,Gigantesco,巨人症
 DISORDER_GARGANTUAN_DESC,You are permanently immobile.,,Esta unidad permanece inmóvil para siempre.,Vous êtes immobile de façon permanente.,Du bist dauerhaft unbeweglich.,Sei permanentemente immobile.,Você fica permanentemente imóvel.,你无法移动。
-DISORDER_BRAINDEAD_NAME,Brain Dead,,Muerte cerebral,Mort cérébrale,Hirntot,Morte Cerebrale,Morte Cerebral,Brain Dead
+DISORDER_BRAINDEAD_NAME,Brain Dead,,Muerte cerebral,Mort cérébrale,Hirntot,Morte Cerebrale,Morte Cerebral,脑死亡
 DISORDER_BRAINDEAD_DESC,Gain twice as many stats when you level up. +1 Reroll when leveling up.,,Obtiene el doble de atributos cuando sube de nivel. +1 de cambio al azar al subir de nivel.,"Lorsque vous gagnez un niveau, vous gagnez le double de stats. Options&nbsp;+1&nbsp;lorsque vous gagnez un niveau.","Wenn du ein Level aufsteigst, erhältst du doppelt so viele Attribute. Du kannst deine Auswahlmöglichkeiten einmal neu generieren, wenn du ein Level aufsteigst.",Ottieni il doppio delle statistiche quando sali di livello. +1 possibilità di modifica quando sali di livello.,Obtenha duas vezes mais atributos ao subir de nível. +1 chance de rolar novamente ao subir de nível.,"升级时获得双倍属性。
 升级时+1次重投。"
 DISORDER_SENSORYOVERLOAD_NAME,Sensory Overload,,Sobrecarga sensorial,Surcharge sensorielle,Reizüberflutung,Sovraccarico Sensoriale,Sobrecarga Sensorial,感官过载
@@ -4032,7 +4032,7 @@ Você pode rolar novamente suas opções ao subir de nível 3 vezes.","你每回
 ,,,,,,,,
 ,,,,,,,,
 //placeholders,,,,,,,,
-PASSIVE_STARTER_PLACEHOLDER_NAME,???,,¿?,???,???,???,???,???
+PASSIVE_STARTER_PLACEHOLDER_NAME,???,,¿?,???,???,???,???,被动启动器
 PASSIVE_STARTER_PLACEHOLDER_FIGHTER_DESC,Becomes a random Fighter passive when you lock in your team's collars.,,"Cuando asignas los collares del grupo, se convierte en una pasiva de luchador al azar.",Devient une compétence passive de Pugiliste lorsque vous verrouillez les colliers de votre équipe.,"Wird zu einem zufälligen Krieger-Passiveffekt, wenn du die Klassen deiner Gruppe zugewiesen hast.",Diventa un'abilità passiva casuale del Guerriero quando blocchi i collari della tua squadra.,Torna-se uma habilidade passiva aleatória de lutador quando você trava as coleiras da sua equipe.,"当你锁定你队伍的项圈时，
 变成随机的战士被动。"
 PASSIVE_STARTER_PLACEHOLDER_THIEF_DESC,Becomes a random Thief passive when you lock in your team's collars.,,"Cuando asignas los collares del grupo, se convierte en una pasiva de ladrón al azar.",Devient une compétence passive de Fourbe lorsque vous verrouillez les colliers de votre équipe.,"Wird zu einem zufälligen Dieb-Passiveffekt, wenn du die Klassen deiner Gruppe zugewiesen hast.",Diventa un'abilità passiva casuale del Ladro quando blocchi i collari della tua squadra.,Torna-se uma habilidade passiva aleatória de ladrão quando você trava as coleiras da sua equipe.,"当你锁定你队伍的项圈时，
