@@ -1,0 +1,44 @@
+file,row,key,source_col,target_col,source_preview
+additions2.csv,5,,en,ja,WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW
+cutscene_text.csv,593,,en,ja,[a:shake]RRRAAAAAHHHH![/a]
+cutscene_text.csv,600,,en,ja,C-800
+cutscene_text.csv,604,,en,ja,C-1000
+furniture.csv,747,,en,ja,IV
+keyword_tooltips.csv,424,,en,ja,+4 [img:spd]
+misc.csv,450,,en,ja,Zzz...
+misc.csv,646,,en,ja,ACT I
+misc.csv,648,,en,ja,ACT II
+misc.csv,650,,en,ja,ACT III
+misc.csv,660,,en,ja,a
+misc.csv,661,,en,ja,o
+misc.csv,662,,en,ja,u
+misc.csv,663,,en,ja,i
+misc.csv,664,,en,ja,gu
+misc.csv,665,,en,ja,bu
+misc.csv,666,,en,ja,og
+misc.csv,667,,en,ja,ag
+misc.csv,668,,en,ja,mo
+misc.csv,669,,en,ja,fu
+misc.csv,670,,en,ja,ba
+misc.csv,674,,en,ja,oog
+misc.csv,676,,en,ja,mur
+misc.csv,679,,en,ja,der
+misc.csv,680,,en,ja,dur
+misc.csv,685,,en,ja,durh
+misc.csv,692,,en,ja,herr
+misc.csv,694,,en,ja,ugna
+misc.csv,697,,en,ja,mooga
+npc_dialog.csv,347,,en,ja,[m:sad]1... 2... 3...
+npc_dialog.csv,1697,,en,ja,i
+npc_dialog.csv,1759,,en,ja,i
+npc_dialog.csv,1818,,en,ja,[m:veryangry]KEEP
+npc_dialog.csv,1921,,en,ja,[m:veryangry]GGGGAAAAAHHH!
+npc_dialog.csv,2017,,en,ja,[m:shocked]RRRRAAAAAAAAAAAAHHHHHH!!!!!
+npc_dialog.csv,2022,,en,ja,GGGAAAAAHHHH!!
+npc_dialog.csv,2886,,en,ja,[m:angry]UG!
+npc_dialog.csv,3070,,en,ja,[m:veryhappy]HAHAHAHAHA!
+teamnames.csv,68,,en,ja,XXL
+teamnames.csv,95,,en,ja,Centered
+teamnames.csv,353,,en,ja,Gatos
+units.csv,705,,en,ja,C-800
+units.csv,707,,en,ja,C-1000
