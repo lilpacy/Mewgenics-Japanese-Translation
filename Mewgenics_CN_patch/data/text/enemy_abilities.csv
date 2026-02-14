@@ -57,7 +57,8 @@ EABILITY_SWIPE_NAME,Swipe,,Golpe,Baffe,Schlag,Zampata,Passada,挥击,スワイ�
 EABILITY_BITE_NAME,Bite,,Mordisco,Morsure,Biss,Morso,Mordida,咬,かみつき
 EABILITY_GEMINADO_NAME,Geminado,,Geminado,Tornades jumelles,Geminado,Geminado,Geminado,双重,双子の力
 EABILITY_SUICIDEMELEE_NAME,Melee Attack,,Ataque cuerpo a cuerpo,Attaque au corps-à-corps,Nahkampfangriff,Attacco Corpo a Corpo,Ataque Corpo-a-Corpo,近战攻击,自傷近接攻撃
-EABILITY_SUICIDEMELEE_DESC,A melee attack that also damages yourself.,,Un ataque cuerpo a cuerpo que también daña a esta unidad.,Une attaque au corps-à-corps qui vous inflige également des dégâts.,"Ein Nahkampfangriff, der dir auch selbst Schaden zufügt.",Un attacco corpo a corpo che danneggia anche te.,Um ataque corpo-a-corpo que também causa dano a você.,一种近战攻击，也会伤害自己。,自分にもダメージを与える近接攻撃。
+EABILITY_SUICIDEMELEE_DESC,A melee attack that also damages yourself.,,Un ataque cuerpo a cuerpo que también daña a esta unidad.,Une attaque au corps-à-corps qui vous inflige également des dégâts.,"Ein Nahkampfangriff, der dir auch selbst Schaden zufügt.",Un attacco corpo a corpo che danneggia anche te.,Um ataque corpo-a-corpo que também causa dano a você.,一种近战攻击，也会伤害自己。,"自分にもダメージを与える近接攻
+撃。"
 EABILITY_SPAWNMAGGOT_NAME,Spawn Maggot,,Generación de gusano,Invocation d'asticot,Made rufen,Generazione Larva,Gerar Verme,生成蛆,マゴット召喚
 EABILITY_SPAWNMAGGOTS_NAME,Spawn Maggots,,Generación de gusanos,Invocation d'asticots,Maden rufen,Generazione Larve,Gerar Vermes,生成蛆虫,ウジ虫召喚
 EABILITY_SPAWNFLEA_NAME,Spawn Flea,,Generación de pulga,Invocation de puce,Floh rufen,Generazione Pulce,Gerar Pulga,生成跳蚤,ノミ召喚
@@ -123,7 +124,8 @@ EABILITY_FLUSH_NAME,Flush,,Cisterna,Chasse d'eau,Spülung,Sciacquone,Descarga,�
 EABILITY_TENTICKLES_NAME,Ten Tickles,,Pulpillitas,Tentaccule,Kitzler,Solletico Tentacolare,Dez Cócegas,十次挠痒,テンティクルズ
 EABILITY_BOTTOMSUP_NAME,Bottoms Up,,¡Salud!,Cul sec,Prost,Cin Cin,Inversão,干杯,水中回復
 EABILITY_BOTTOMSUP_DESC,Gain 5HP. Can only be used when standing in water.,,Obtiene 5 PS. Solo puede usarse en el agua.,Confère PV&nbsp;+5. Ne peut être utilisé que dans l'eau.,Erhalte 5&nbsp;LP. Kann nur im Wasser verwendet werden.,Ottieni 5 PS. Può essere usato solo stando in acqua.,Obtenha 5 PV. Só pode ser utilizado na água.,"获得5生命值。
-只能在站在水中时使用。",5HPを回復します。水中に立っているときのみ使用可能です。
+只能在站在水中时使用。","5HPを回復します。水中に立っ
+ているときのみ使用可能です。"
 EABILITY_LOBBEDWATERSHOT_NAME,Lobbed Water Shot,,Tiro de agua en arco,Tir aquatique en cloche,Wasserschuss,Tiro d'Acqua a Parabola,Disparo Aquático em Arco,抛投水弹,放物線水撃
 EABILITY_LOBBEDWATERSHOT_DESC,Lobbed Water attack.,,Lanza un ataque acuoso en arco.,Attaque aquatique en cloche.,"Ein Wasserangriff, der Hindernisse ignoriert.",Attacco d'acqua a parabola.,Ataque Aquático em Arco.,抛投水攻击。,投げ水攻撃。
 EABILITY_DISGUISE_NAME,Disguise,,Disfraz,Déguisement,Tarnung,Travestimento,Disfarce,伪装,変装
@@ -138,14 +140,20 @@ Se o contrafeitiço não for ativado no seu próximo turno, absorva-o para obter
 
 则吸收该法术，
 获得+2伤害和+2所有属性提升。
-","敵が次に唱える呪文を打ち消します。  
-次のターンまでにカウンターが発動しなかった場合、吸収してダメージ+2、全ステータス+2を獲得します。"
+","敵が次に唱える呪文を打ち消しま
+す。  
+次のターンまでにカウンターが発
+動しなかった場合、吸収してダメ
+ージ+2、全ステータス+2を獲
+得します。"
 EABILITY_BRAINMISSLE_NAME,Brain Missile,,Misil cerebral,Missile psy,Hirnrakete,Missile Mentale,Míssil Cerebral,脑导弹,ブレインミサイル
 EABILITY_BRAINMISSLE_DESC,Shoot an infinite-range projectile that can't miss.,,Dispara un proyectil de alcance infinito que no puede fallar.,Tire un projectile à portée infinie qui ne rate jamais sa cible.,"Feuere ein Geschoss mit unendlicher Reichweite ab, das nicht verfehlen kann.",Spara un proiettile a raggio d'azione infinito che non può mancare il bersaglio.,Dispare um projétil de alcance infinito que não pode errar.,"发射一个不会失手的无限射程弹幕。
-",無限射程で必中の飛び道具を発射します。
+","無限射程で必中の飛び道具を発射
+します。"
 EABILITY_ACIDSHOT_NAME,Acid Shot,,Tiro ácido,Tir acide,Säureschuss,Colpo Acido,Disparo Ácido,酸液射击,アシッドショット
 EABILITY_SUCK_NAME,Suck,,Succión,Aspiration,Sauger,Risucchio,Sugar,吸入,吸い込み
-EABILITY_SUCK_DESC,"Inhale a unit, then spit it out.",,Aspira a una unidad y luego la escupe.,"Aspire une unité, puis la recrache.",Atme eine Einheit ein und spucke sie anschließend aus.,Inala un'unita e poi la sputa via.,Inale uma unidade e então cuspa-a.,吸入一个单位，然后吐出。,ユニットを吸い込み、吐き出します。
+EABILITY_SUCK_DESC,"Inhale a unit, then spit it out.",,Aspira a una unidad y luego la escupe.,"Aspire une unité, puis la recrache.",Atme eine Einheit ein und spucke sie anschließend aus.,Inala un'unita e poi la sputa via.,Inale uma unidade e então cuspa-a.,吸入一个单位，然后吐出。,"ユニットを吸い込み、吐き出しま
+す。"
 EABILITY_WOLFLEAP_NAME,Wolf Leap,,Brinco lobuno,Bond de loup,Wolfsprung,Salto del Lupo,Salto do Lobo,狼跃,ウルフリープ
 EABILITY_DOOM_NAME,DOOM,,Condenación,MALHEUR,TODESURTEIL,SCIAGURA,PERDIÇÃO,末日,破滅
 EABILITY_LEECHES_NAME,Leeches,,Sanguijuelas,Sangsues,Blutegel,Sanguisughe,Sanguessugas,水蛭,吸血鬼

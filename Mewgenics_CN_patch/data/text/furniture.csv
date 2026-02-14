@@ -1,9 +1,12 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br,zh,ja
-FURNITURE_RARE_FORMAT,Rare {furniturename},,{furniturename} inusual,{furniturename} rare,{furniturename} (Selten),{furniturename} (raro),{furniturename} (raro),稀有 {furniturename},レアな{furniturename}
+FURNITURE_RARE_FORMAT,Rare {furniturename},,{furniturename} inusual,{furniturename} rare,{furniturename} (Selten),{furniturename} (raro),{furniturename} (raro),稀有 {furniturename},"レアな
+{furniturename}"
 FURNITURE_NAME_POOP,Poop,,Caca,Crotte,Häufchen,Cacca,Cocô,粪便,うんち
 FURNITURE_DESC_POOP,,,,,,,,,
 FURNITURE_NAME_AUTOFEEDER,Autofeeder,"(cut, no need to localize)",Comedero automático,Autofeeder,,,,自动喂食器,自動給餌機
-FURNITURE_DESC_AUTOFEEDER,This item got removed from the game and has no effect. Its a waste of space to keep in your house.,"(cut, no need to localize)","Este objeto ya no está en el juego, de modo que ocupa un espacio innecesario en la casa.",This item got removed from the game and has no effect. Its a waste of space to keep in your house.,,,,此物品已从游戏中移除，无任何效果。放在家里只是占用空间。,このアイテムはゲームから削除され、効果がありません。家に置いておくとスペースの無駄です。
+FURNITURE_DESC_AUTOFEEDER,This item got removed from the game and has no effect. Its a waste of space to keep in your house.,"(cut, no need to localize)","Este objeto ya no está en el juego, de modo que ocupa un espacio innecesario en la casa.",This item got removed from the game and has no effect. Its a waste of space to keep in your house.,,,,此物品已从游戏中移除，无任何效果。放在家里只是占用空间。,"このアイテムはゲームから削除さ
+れ、効果がありません。家に置い
+ておくとスペースの無駄です。"
 FURNITURE_NAME_SPECIAL_FOODBOX,Food Storage Box,,Nevera de comida,Boîte de rangement de croquettes,Futterbox,Scatola per il cibo,Caixa de armazenamento de comida,食物储藏箱,食品収納ボックス
 FURNITURE_DESC_SPECIAL_FOODBOX,+40 Max Food,,+40 de máximo de comida,Nourriture max.&nbsp;+40,+40&nbsp;max. Futter,+40 Cibo Massimo,+40 de comida máx.,+40 最大食物,最大食料 +40
 FURNITURE_NAME_SPECIAL_COMFORTIDOL,Idol of Comfort,,Ídolo de la comodidad,Idole de Bien-être,Idol des Komforts,Idolo del Comfort,Ídolo de conforto,舒适偶像,快適の偶像
@@ -17,7 +20,9 @@ FURNITURE_DESC_SPECIAL_EVOLUTIONIDOL,,,,,,,,,
 FURNITURE_NAME_SPECIAL_STIMULATIONIDOL,Idol of Stimulation ,,Ídolo de la estimulación ,Idole de Stimulation,Idol der Stimulation ,Idolo della Stimolazione,Ídolo de estimulação,刺激偶像,刺激の偶像
 FURNITURE_DESC_SPECIAL_STIMULATIONIDOL,,,,,,,,,
 FURNITURE_NAME_SPECIAL_FIGHTIDOL,Idol of Chaos,,Ídolo del caos,Idole du Chaos,Idol des Chaos,Idolo del Caos,Ídolo de caos,混沌偶像,混沌の偶像
-FURNITURE_DESC_SPECIAL_FIGHTIDOL,Fights are deadlier but the winning cat gets double the stat rewards.,,"Los combates son más sangrientos, pero el gato ganador recibe el doble de recompensas de atributos.","Les combats sont plus sanguinaires, mais le chat vainqueur remporte le double des récompenses en stats.","Kämpfe sind tödlicher, aber Attributsbelohnungen sind verdoppelt.","I combattimenti sono più letali, ma il gatto vincitore ottiene il doppio delle ricompense alle statistiche.","Lutas são mais mortais, mas os gatos vencedores obtêm o dobro de recompensas de atributos.",战斗更致命，但获胜的猫获得双倍属性奖励。,戦いはより致命的ですが、勝利した猫はステータス報酬が2倍になります。
+FURNITURE_DESC_SPECIAL_FIGHTIDOL,Fights are deadlier but the winning cat gets double the stat rewards.,,"Los combates son más sangrientos, pero el gato ganador recibe el doble de recompensas de atributos.","Les combats sont plus sanguinaires, mais le chat vainqueur remporte le double des récompenses en stats.","Kämpfe sind tödlicher, aber Attributsbelohnungen sind verdoppelt.","I combattimenti sono più letali, ma il gatto vincitore ottiene il doppio delle ricompense alle statistiche.","Lutas são mais mortais, mas os gatos vencedores obtêm o dobro de recompensas de atributos.",战斗更致命，但获胜的猫获得双倍属性奖励。,"戦いはより致命的ですが、勝利し
+た猫はステータス報酬が2倍にな
+ります。"
 FURNITURE_NAME_SPECIAL_SUPPRESSORIDOL,Idol of Chastity,,Ídolo de la castidad,Idole de Chasteté,Idol der Keuschheit,Idolo della castità,Ídolo de castidade,贞洁偶像,貞潔の偶像
 FURNITURE_DESC_SPECIAL_SUPPRESSORIDOL,Cats will not breed.,,Los gatos no se aparean.,Les chats ne se reproduiront pas.,Katzen pflanzen sich nicht fort.,I gatti non si riproducono.,Gatos não procriam.,猫咪将不会繁殖。,猫は繁殖しません。
 FURNITURE_NAME_SET_SPIDER_CANDELABRA,Spider Candelabra,,Candelabro arácnido,Candélabre araignée,Spinnenkronleuchter,Candelabro aracnide,Candelabro de aranha,蜘蛛烛台,スパイダーキャンデラブラ
@@ -416,19 +421,23 @@ FURNITURE_NAME_SET_MUSHROOM_SHELF,Mushroom Shelf,,Estante fúngico,Étagère cha
 FURNITURE_DESC_SET_MUSHROOM_SHELF,,,,,,,,,
 FURNITURE_NAME_SET_MUSHROOM_SUSPENDEDSHELF,Suspended Mushroom Shelf A,,Estante fúngico colgado A,Étagère suspendue champignon A,Pilzhängeregal A,Mensola sospesa a forma di fungo A,Prateleira cogumelo A,悬挂的蘑菇架A,吊り下げ式マッシュルーム棚A
 FURNITURE_DESC_SET_MUSHROOM_SUSPENDEDSHELF,,,,,,,,,
-FURNITURE_NAME_SET_MUSHROOM_SUSPENDEDSHELF2,Suspended Mushroom Shelf B,,Estante fúngico colgado B,Étagère suspendue champignon B,Pilzhängeregal B,Mensola sospesa a forma di fungo B,Prateleira cogumelo B,悬挂的蘑菇架B,吊り下げ式マッシュルームシェルフB
+FURNITURE_NAME_SET_MUSHROOM_SUSPENDEDSHELF2,Suspended Mushroom Shelf B,,Estante fúngico colgado B,Étagère suspendue champignon B,Pilzhängeregal B,Mensola sospesa a forma di fungo B,Prateleira cogumelo B,悬挂的蘑菇架B,"吊り下げ式マッシュルームシェル
+フB"
 FURNITURE_DESC_SET_MUSHROOM_SUSPENDEDSHELF2,,,,,,,,,
 FURNITURE_NAME_SET_MUSHROOM_STOOL3,Mushroom Stool C,,Taburete fúngico C,Tabouret champignon C,Pilzhocker C,Sgabello a forma di fungo C,Banqueta cogumelo C,蘑菇凳C,マッシュルームスツールC
 FURNITURE_DESC_SET_MUSHROOM_STOOL3,,,,,,,,,
 FURNITURE_NAME_SET_RUSTIC_DRESSER,Rustic Dresser,,Aparador rústico,Commode rustique,Rustikaler Kleiderschrank,Comò rustico,Cômoda rústica,乡村梳妆台,ラスティックドレッサー
 FURNITURE_DESC_SET_RUSTIC_DRESSER,,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_SHELF,Suspended Rustic Shelf A,,Estante rústico colgado A,Étagère suspendue&nbsp;rustique A,Rustikales Hängeregal A,Mensola rustica sospesa A,Prateleira rústica A,悬挂的乡村架A,吊り下げ式ラスティックシェルフA
+FURNITURE_NAME_SET_RUSTIC_SHELF,Suspended Rustic Shelf A,,Estante rústico colgado A,Étagère suspendue&nbsp;rustique A,Rustikales Hängeregal A,Mensola rustica sospesa A,Prateleira rústica A,悬挂的乡村架A,"吊り下げ式ラスティックシェルフ
+A"
 FURNITURE_DESC_SET_RUSTIC_SHELF,,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_SUSPENDEDSHELF,Suspended Rustic Shelf B,,Estante rústico colgado B,Étagère suspendue rustique B,Rustikales Hängeregal B,Mensola rustica sospesa B,Prateleira rústica B,悬挂的乡村架B,吊り下げ式ラスティックシェルフB
+FURNITURE_NAME_SET_RUSTIC_SUSPENDEDSHELF,Suspended Rustic Shelf B,,Estante rústico colgado B,Étagère suspendue rustique B,Rustikales Hängeregal B,Mensola rustica sospesa B,Prateleira rústica B,悬挂的乡村架B,"吊り下げ式ラスティックシェルフ
+B"
 FURNITURE_DESC_SET_RUSTIC_SUSPENDEDSHELF,,,,,,,,,
 FURNITURE_NAME_SET_RUSTIC_SIDETABLE,Rustic Side Table,,Mesilla rústica,Table d'appoint rustique,Rustikaler Beistelltisch,Tavolino rustico,Mesa lateral rústica,乡村边桌,ラスティックサイドテーブル
 FURNITURE_DESC_SET_RUSTIC_SIDETABLE,,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_SUSPENDEDSHELF2,Suspended Rustic Spice Rack,,Especiero rústico colgado,Étagère à épices suspendue rustique,Rustikales Gewürzregal,Portaspezie rustico sospeso,Suporte de temperos rústico,悬挂的乡村香料架,吊り下げ式のラスティックスパイスラック
+FURNITURE_NAME_SET_RUSTIC_SUSPENDEDSHELF2,Suspended Rustic Spice Rack,,Especiero rústico colgado,Étagère à épices suspendue rustique,Rustikales Gewürzregal,Portaspezie rustico sospeso,Suporte de temperos rústico,悬挂的乡村香料架,"吊り下げ式のラスティックスパイ
+スラック"
 FURNITURE_DESC_SET_RUSTIC_SUSPENDEDSHELF2,,,,,,,,,
 FURNITURE_NAME_SET_RUSTIC_CHAIR,Rustic Chair,,Silla rústica,Chaise rustique,Rustikaler Stuhl,Sedia rustica,Cadeira rústica,乡村椅子,素朴な椅子
 FURNITURE_DESC_SET_RUSTIC_CHAIR,,,,,,,,,
@@ -810,7 +819,8 @@ FURNITURE_NAME_WALLMOUNTED_PICTURE_SCARFACE,Catface Poster,,Póster de «Caragat
 FURNITURE_DESC_WALLMOUNTED_PICTURE_SCARFACE,,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_PICTURE_LAMBS,Silence of the Mice Poster,,Póster de «El silencio de los ratones»,Affiche «&nbsp;Le Silence des souris&nbsp;»,Das Schweigen der Mäuse Poster,Poster - Il Silenzio delle Pantegane,Pôster Silêncio dos camundongos,老鼠的沉默海报,マウスポスターの沈黙
 FURNITURE_DESC_WALLMOUNTED_PICTURE_LAMBS,,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_ORANGE,Catwork Orange Poster,,Póster de «La naranja michina»,Affiche «&nbsp;Orange méchanique&nbsp;»,Uhrwerk Miaurange Poster,Poster - Miaoarancia Meccanica,Pôster Laranja miaucânica,猫橘海报,キャットワーク・オレンジのポスター
+FURNITURE_NAME_WALLMOUNTED_PICTURE_ORANGE,Catwork Orange Poster,,Póster de «La naranja michina»,Affiche «&nbsp;Orange méchanique&nbsp;»,Uhrwerk Miaurange Poster,Poster - Miaoarancia Meccanica,Pôster Laranja miaucânica,猫橘海报,"キャットワーク・オレンジのポス
+ター"
 FURNITURE_DESC_WALLMOUNTED_PICTURE_ORANGE,,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_PICTURE_ERASER,Litterhead Poster,,Póster de «Cabeza basurera»,Affiche «&nbsp;Litterhead&nbsp;»,Litterhead-Poster,Poster - Testa di Lettiera,Pôster Litterhead,垃圾头海报,リッターヘッドポスター
 FURNITURE_DESC_WALLMOUNTED_PICTURE_ERASER,,,,,,,,,

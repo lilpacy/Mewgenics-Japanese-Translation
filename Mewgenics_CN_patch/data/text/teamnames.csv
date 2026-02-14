@@ -1,5 +1,6 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br,zh,ja
-TEAMNAME_FORMAT,The {Adjective} {Nouns},"one adjective and one noun are chosen at random. If this is impossible to make work in a language, then just change the format to say ""The Cats"", or make the adjectives empty and randomize some teamnames in the Noun slots",Los {Nouns} {Adjective},Les {Nouns} {Adjective},Die {Adjective} {Nouns},{Nouns} {Adjective},{Nouns} {Adjective},那个{Adjective}的{Nouns},{Adjective}{Nouns}
+TEAMNAME_FORMAT,The {Adjective} {Nouns},"one adjective and one noun are chosen at random. If this is impossible to make work in a language, then just change the format to say ""The Cats"", or make the adjectives empty and randomize some teamnames in the Noun slots",Los {Nouns} {Adjective},Les {Nouns} {Adjective},Die {Adjective} {Nouns},{Nouns} {Adjective},{Nouns} {Adjective},那个{Adjective}的{Nouns},"{Adjective}
+{Nouns}"
 TEAMNAME_FORMAT2,{Adjective} {Nouns},"if the adjective is prepended with ""format2|"" then the team name will use this format instead of the default one",{Nouns} {Adjective},{Nouns} {Adjective},Die {Adjective}-{Nouns},{Adjective} {Nouns},{Nouns} {Adjective},{Adjective}的{Nouns},
 ,,"if more than 2 formats are needed for a language, I can add more (just let me know).",,,,,,,
 ,,"nouns may be prepended with the text ""singular|"" (ex if the noun is Team or Sqaud instead of Cats). This changes the grammar in the embark/return/fail cutscenes (ex: ""{Teamname} Returns Home"" vs {Teamname} Return Home"")",,,,,,,
@@ -19,7 +20,13 @@ TEAMNAME_ADJECTIVE_FIGHTER12,Dim,,Atontados,bêtes,Zurückgebliebenen,Ottusi|Ott
 TEAMNAME_ADJECTIVE_FIGHTER13,Brooding,,Amenazadores,menaçants|menaçantes,Grüblerischen,Cupi,Melancólicos|Melancólicas,沉思的,物思いにふける
 TEAMNAME_ADJECTIVE_HUNTER0,Patient,,Pacientes,patients|patientes,Geduldigen,Pazienti,Pacientes,有耐心的,忍耐強い
 TEAMNAME_ADJECTIVE_HUNTER1,Accurate,,Precisos,précis|précises,Peniblen,Precisi|Precise,Precisos|Precisas,精准的,正確
-TEAMNAME_ADJECTIVE_HUNTER2,Focused,,Concentrados,concentrés|concentrées,Konzentrierten,Concentrati|Concentrate,Concentrados|Concentradas,专注的,集中力が試されるゲームです。プレイヤーはTEAMNAME_ADJECTIVE_HUNTER2として、スリリングな冒険に挑みます。スキルを駆使して、敵を打ち負かし、勝利を目指しましょう。
+TEAMNAME_ADJECTIVE_HUNTER2,Focused,,Concentrados,concentrés|concentrées,Konzentrierten,Concentrati|Concentrate,Concentrados|Concentradas,专注的,"集中力が試されるゲームです。プ
+レイヤーはTEAMNAME_
+ADJECTIVE_
+HUNTER2として、スリリン
+グな冒険に挑みます。スキルを駆
+使して、敵を打ち負かし、勝利を
+目指しましょう。"
 TEAMNAME_ADJECTIVE_HUNTER3,Sharp Shootin',,Certeros,flingueurs|flingueuses,Adleräugigen,Attenti|Attente,Certeiros|Certeiras,神射手的,鋭い射撃スキル
 TEAMNAME_ADJECTIVE_HUNTER4,Mangy,,Sarnosos,galeux|galeuses,Räudigen,Rognosi|Rognose,Mambembes,邋遢,みすぼらしい
 TEAMNAME_ADJECTIVE_HUNTER5,Infested,,Infestados,infestés|infestées,Infizierten,Infestati|Infestate,Infestados|Infestadas,被寄生,感染した
@@ -179,11 +186,13 @@ TEAMNAME_ADJECTIVE_JESTER13,Smiling,,Sonrientes,souriants|souriantes,Lächelnden
 TEAMNAME_ADJECTIVE_JESTER14,Gay,,Alegres,gais|gaies,Fröhlichen,Gioiosi|Gioiose,Alegres,同性恋,ゲイ
 TEAMNAME_ADJECTIVE_MISC0,Purrrfect,,Ronroneantes,parrrfaits|parrrfaites,Schnurrenden,Miaosi|Miaosette,Purrrfeitos|Purrrfeitas,完美无缺,パーフェクト
 TEAMNAME_ADJECTIVE_MISC1,Fluffy,,Suaves,duveteux|duveteuses,Fluffigen,Pelosetti|Pelosette,Fofinhos|Fofinhas,毛茸茸,ふわふわ
-TEAMNAME_ADJECTIVE_MISC2,format2|{Catname's},,format2|{Catname} y sus,format2|{Catname} et les,Namhaften,di {Catname},format2|de {Catname},格式2|{Catname的},フォーマット2|{Catname's}
+TEAMNAME_ADJECTIVE_MISC2,format2|{Catname's},,format2|{Catname} y sus,format2|{Catname} et les,Namhaften,di {Catname},format2|de {Catname},格式2|{Catname的},"フォーマット2|
+{Catname's}"
 TEAMNAME_ADJECTIVE_MISC2_M,,,,,,,,,
 TEAMNAME_ADJECTIVE_MISC2_F,,,,,,,,,
 TEAMNAME_ADJECTIVE_MISC2_N,,,,,,,,,
-TEAMNAME_ADJECTIVE_MISC3,format2|{Catname} and the,,format2|{Catname} y los,format2|{Catname} et les,Abgefahrenen,format2|{Catname} e,format2|{Catname} e os,format2|{Catname} 和,format2|{Catname}とその
+TEAMNAME_ADJECTIVE_MISC3,format2|{Catname} and the,,format2|{Catname} y los,format2|{Catname} et les,Abgefahrenen,format2|{Catname} e,format2|{Catname} e os,format2|{Catname} 和,"format2|
+{Catname}とその"
 TEAMNAME_ADJECTIVE_MISC3_M,,,,,,,,,
 TEAMNAME_ADJECTIVE_MISC3_F,,,,,,,,,
 TEAMNAME_ADJECTIVE_MISC3_N,,,,,,,,,

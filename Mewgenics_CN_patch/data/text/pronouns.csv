@@ -2,7 +2,8 @@
 PRONOUN_HE_LOWER,he,replaces {he} in other strings,él,il,er,lui,ele,他,彼
 PRONOUN_HE_UPPER,He,replaces {He} in other strings,Él,Il,Er,Lui,Ele,他,彼
 PRONOUN_HE_S_LOWER,he's,replaces {he's} in other strings,él,,er ist,lui è,ele está,他是,彼は
-PRONOUN_HE_S_UPPER,He's,replaces {He's} in other strings,Él,,Er ist,Lui è,Ele está,他是,PRONOUN_HE_S_UPPERは
+PRONOUN_HE_S_UPPER,He's,replaces {He's} in other strings,Él,,Er ist,Lui è,Ele está,他是,"PRONOUN_HE_S_
+UPPERは"
 PRONOUN_HIS_LOWER,his,replaces {his} in other strings,su,,sein,suo,dele,他的,彼の
 PRONOUN_HIS_UPPER,His,replaces {His} in other strings,Su,,Sein,Suo,Dele,他的,彼の
 PRONOUN_HIM_LOWER,him,replaces {him} in other strings,él,lui,ihn,lui,a ele,他,彼
@@ -12,7 +13,8 @@ PRONOUN_HIMSELF_UPPER,Himself,replaces {Himself} in other strings,Él,,Er selbst
 ,,,,,,,,,
 PRONOUN_SHE_LOWER,she,replaces {he} in other strings,ella,elle,sie,lei,ela,她,彼女
 PRONOUN_SHE_UPPER,She,replaces {He} in other strings,Ella,Elle,Sie,Lei,Ela,她,彼女
-PRONOUN_SHE_S_LOWER,she's,replaces {he's} in other strings,ella,,sie ist,lei è,ela está,她是,"KEY: PRONOUN_SHE_S_LOWER  
+PRONOUN_SHE_S_LOWER,she's,replaces {he's} in other strings,ella,,sie ist,lei è,ela está,她是,"KEY: PRONOUN_
+SHE_S_LOWER  
 JP_DESC: 彼女は"
 PRONOUN_SHE_S_UPPER,She's,replaces {He's} in other strings,Ella,,Sie ist,Lei è,Ela está,她是,彼女は
 PRONOUN_HER_POSSESSIVE_LOWER,her,replaces {his} in other strings,su,,ihr,suo,dela,她,彼女の
@@ -26,9 +28,11 @@ PRONOUN_THEY_LOWER,they,replaces {he} in other strings,él,iel,er,loro,eles,他�
 PRONOUN_THEY_UPPER,They,replaces {He} in other strings,Él,Iel,Er,Loro,Eles,他们,彼ら
 PRONOUN_THEYRE_LOWER,they're,replaces {he's} in other strings,él,,er ist,loro sono,eles estão,他们是,彼らは
 PRONOUN_THEYRE_UPPER,They're,replaces {He's} in other strings,Él,,Er ist,Loro sono,Eles estão,他们是,彼らは
-PRONOUN_THEIR_LOWER,their,replaces {his} in other strings,él,,sein,loro,deles,他们的,PRONOUN_THEIR_LOWER: 彼らの
+PRONOUN_THEIR_LOWER,their,replaces {his} in other strings,él,,sein,loro,deles,他们的,"PRONOUN_THEIR_
+LOWER: 彼らの"
 PRONOUN_THEIR_UPPER,Their,replaces {His} in other strings,Él,,Sein,loro,Deles,他们的,彼らの
-PRONOUN_THEM_LOWER,them,replaces {him} in other strings,él,ellui,ihn,loro,a eles,他们,PRONOUN_THEM_LOWER
+PRONOUN_THEM_LOWER,them,replaces {him} in other strings,él,ellui,ihn,loro,a eles,他们,"PRONOUN_THEM_
+LOWER"
 PRONOUN_THEM_UPPER,Them,replaces {Him} in other strings,Él,Ellui,Ihn,loro,A eles,他们,彼ら
 PRONOUN_THEMSELF_LOWER,themself,replaces {himself} in other strings,él,,er selbst,loro stessi,eles mesmos,他们自己,自分自身
 PRONOUN_THEMSELF_UPPER,Themself,replaces {Himself} in other strings,Él,,Er selbst,Loro stessi,Eles mesmos,他们自己,彼ら自身
