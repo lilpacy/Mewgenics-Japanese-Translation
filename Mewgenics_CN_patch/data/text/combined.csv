@@ -1,6 +1,6 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br,ru,ko,ja,zh
-CURRENT_LANGUAGE_NAME,English,"put ""espanol"" in the spanish column, ""francois"" in the french one, etc. Limited text box space so abbreviate if necessary",Español,Français,Deutsch,Italiano,Português (Brasil),,,,简体中文
-CURRENT_LANGUAGE_SHIPPABLE,yes,"put ""yes"" if the language is shippable and ""no"" if its not ready yet. this is not displayed, just used to determine if the language should show in the UI selector",yes,yes,yes,yes,yes,,,,yes
+CURRENT_LANGUAGE_NAME,English,"put ""espanol"" in the spanish column, ""francois"" in the french one, etc. Limited text box space so abbreviate if necessary",Español,Français,Deutsch,Italiano,Português (Brasil),,,日本語,简体中文
+CURRENT_LANGUAGE_SHIPPABLE,yes,"put ""yes"" if the language is shippable and ""no"" if its not ready yet. this is not displayed, just used to determine if the language should show in the UI selector",yes,yes,yes,yes,yes,,,yes,yes
 ,,,,,,,,,,,
 // abilities.csv,,,,,,,,,,,
 ABILITY_BLOCK_NAME,Block,,Bloqueo,Résistance,Blocken,Parata,Bloqueio,,,,格挡
